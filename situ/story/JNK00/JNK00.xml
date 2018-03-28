@@ -1,0 +1,3981 @@
+<?xml version="1.0"?>
+<Situation>
+	<Location>JNK00</Location>
+	<Cast>
+		<Human condition="8">
+			<Code>J2X_NIKO</Code>
+			<Setting>JNK_M03</Setting>
+			<PosGroup>mob_A_02</PosGroup>
+			<Sequence>situ\story\J2X_NIKO\JNK00\JNK00_J2X_NIKO_03.Lua</Sequence>
+		</Human>
+		<Human condition="717">
+			<Code>J2X_NIKO</Code>
+			<Setting>JNK_M03</Setting>
+			<PosGroup>mob_A_02</PosGroup>
+			<Sequence>situ\story\J2X_NIKO\JNK00\JNK00_J2X_NIKO_07.Lua</Sequence>
+		</Human>
+		<Human condition="714">
+			<Code>J2X_NIKO</Code>
+			<Setting>JNK_M03</Setting>
+			<PosGroup>mob_A_02</PosGroup>
+			<Sequence>situ\story\J2X_NIKO\JNK00\JNK00_J2X_NIKO_03.Lua</Sequence>
+		</Human>
+		<Human condition="628">
+			<Code>J2X_NIKO</Code>
+			<Setting>JNK_M03</Setting>
+			<PosGroup>mob_A_02</PosGroup>
+			<Sequence>situ\story\J2X_NIKO\JNK00\JNK00_J2X_NIKO_06.Lua</Sequence>
+		</Human>
+		<Human condition="553">
+			<Code>J2X_NIKO</Code>
+			<Setting>JNK_M03</Setting>
+			<PosGroup>mob_A_02</PosGroup>
+			<Sequence>situ\story\J2X_NIKO\JNK00\JNK00_J2X_NIKO_02.Lua</Sequence>
+		</Human>
+		<Human condition="5">
+			<Code>J2X_NIKO</Code>
+			<Setting>JNK_M03</Setting>
+			<PosGroup>mob_A_02</PosGroup>
+			<Sequence>situ\story\J2X_NIKO\JNK00\JNK00_J2X_NIKO_05.Lua</Sequence>
+		</Human>
+		<Human condition="4">
+			<Code>J2X_NIKO</Code>
+			<Setting>JNK_M03</Setting>
+			<PosGroup>mob_A_02</PosGroup>
+			<Sequence>situ\story\J2X_NIKO\JNK00\JNK00_J2X_NIKO_02.Lua</Sequence>
+		</Human>
+		<Human condition="297">
+			<Code>J2X_NIKO</Code>
+			<Setting>JNK_M03</Setting>
+			<PosGroup>mob_A_02</PosGroup>
+			<Sequence>situ\story\J2X_NIKO\JNK00\JNK00_J2X_NIKO_01.Lua</Sequence>
+		</Human>
+		<Human condition="292">
+			<Code>J2X_NIKO</Code>
+			<Setting>JNK_M03</Setting>
+			<PosGroup>mob_A_02</PosGroup>
+			<Sequence>situ\story\J2X_NIKO\JNK00\JNK00_J2X_NIKO_04.Lua</Sequence>
+		</Human>
+		<Human condition="1">
+			<Code>J2X_NIKO</Code>
+			<Setting>JNK_M03</Setting>
+			<PosGroup>mob_A_02</PosGroup>
+			<Sequence>situ\story\J2X_NIKO\JNK00\JNK00_J2X_NIKO_01.Lua</Sequence>
+		</Human>
+		<Human condition="8">
+			<Code>J2J_ASUK</Code>
+			<Setting>JNK_F01</Setting>
+			<PosGroup>mob_B_05</PosGroup>
+			<Sequence>situ\story\J2J_ASUK\JNK00\JNK00_J2J_ASUK_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="717">
+			<Code>J2J_ASUK</Code>
+			<Setting>JNK_F01</Setting>
+			<PosGroup>mob_B_05</PosGroup>
+			<Sequence>situ\story\J2J_ASUK\JNK00\JNK00_J2J_ASUK_07.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="714">
+			<Code>J2J_ASUK</Code>
+			<Setting>JNK_F01</Setting>
+			<PosGroup>mob_B_05</PosGroup>
+			<Sequence>situ\story\J2J_ASUK\JNK00\JNK00_J2J_ASUK_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="628">
+			<Code>J2J_ASUK</Code>
+			<Setting>JNK_F01</Setting>
+			<PosGroup>mob_B_05</PosGroup>
+			<Sequence>situ\story\J2J_ASUK\JNK00\JNK00_J2J_ASUK_06.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="553">
+			<Code>J2J_ASUK</Code>
+			<Setting>JNK_F01</Setting>
+			<PosGroup>mob_B_05</PosGroup>
+			<Sequence>situ\story\J2J_ASUK\JNK00\JNK00_J2J_ASUK_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="5">
+			<Code>J2J_ASUK</Code>
+			<Setting>JNK_F01</Setting>
+			<PosGroup>mob_B_05</PosGroup>
+			<Sequence>situ\story\J2J_ASUK\JNK00\JNK00_J2J_ASUK_05.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="4">
+			<Code>J2J_ASUK</Code>
+			<Setting>JNK_F01</Setting>
+			<PosGroup>mob_B_05</PosGroup>
+			<Sequence>situ\story\J2J_ASUK\JNK00\JNK00_J2J_ASUK_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="297">
+			<Code>J2J_ASUK</Code>
+			<Setting>JNK_F01</Setting>
+			<PosGroup>mob_B_05</PosGroup>
+			<Sequence>situ\story\J2J_ASUK\JNK00\JNK00_J2J_ASUK_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="292">
+			<Code>J2J_ASUK</Code>
+			<Setting>JNK_F01</Setting>
+			<PosGroup>mob_B_05</PosGroup>
+			<Sequence>situ\story\J2J_ASUK\JNK00\JNK00_J2J_ASUK_04.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="1">
+			<Code>J2J_ASUK</Code>
+			<Setting>JNK_F01</Setting>
+			<PosGroup>mob_B_05</PosGroup>
+			<Sequence>situ\story\J2J_ASUK\JNK00\JNK00_J2J_ASUK_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="8">
+			<Code>J2J_ARTU</Code>
+			<Setting>JNK_M01</Setting>
+			<PosGroup>mob_B_06</PosGroup>
+			<Sequence>situ\story\J2J_ARTU\JNK00\JNK00_J2J_ARTU_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="717">
+			<Code>J2J_ARTU</Code>
+			<Setting>JNK_M01</Setting>
+			<PosGroup>mob_B_06</PosGroup>
+			<Sequence>situ\story\J2J_ARTU\JNK00\JNK00_J2J_ARTU_07.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="714">
+			<Code>J2J_ARTU</Code>
+			<Setting>JNK_M01</Setting>
+			<PosGroup>mob_B_06</PosGroup>
+			<Sequence>situ\story\J2J_ARTU\JNK00\JNK00_J2J_ARTU_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="628">
+			<Code>J2J_ARTU</Code>
+			<Setting>JNK_M01</Setting>
+			<PosGroup>mob_B_06</PosGroup>
+			<Sequence>situ\story\J2J_ARTU\JNK00\JNK00_J2J_ARTU_06.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="553">
+			<Code>J2J_ARTU</Code>
+			<Setting>JNK_M01</Setting>
+			<PosGroup>mob_B_06</PosGroup>
+			<Sequence>situ\story\J2J_ARTU\JNK00\JNK00_J2J_ARTU_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="5">
+			<Code>J2J_ARTU</Code>
+			<Setting>JNK_M01</Setting>
+			<PosGroup>mob_B_06</PosGroup>
+			<Sequence>situ\story\J2J_ARTU\JNK00\JNK00_J2J_ARTU_05.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="4">
+			<Code>J2J_ARTU</Code>
+			<Setting>JNK_M01</Setting>
+			<PosGroup>mob_B_06</PosGroup>
+			<Sequence>situ\story\J2J_ARTU\JNK00\JNK00_J2J_ARTU_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="297">
+			<Code>J2J_ARTU</Code>
+			<Setting>JNK_M01</Setting>
+			<PosGroup>mob_B_06</PosGroup>
+			<Sequence>situ\story\J2J_ARTU\JNK00\JNK00_J2J_ARTU_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="292">
+			<Code>J2J_ARTU</Code>
+			<Setting>JNK_M01</Setting>
+			<PosGroup>mob_B_06</PosGroup>
+			<Sequence>situ\story\J2J_ARTU\JNK00\JNK00_J2J_ARTU_04.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="1">
+			<Code>J2J_ARTU</Code>
+			<Setting>JNK_M01</Setting>
+			<PosGroup>mob_B_06</PosGroup>
+			<Sequence>situ\story\J2J_ARTU\JNK00\JNK00_J2J_ARTU_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="8">
+			<Code>J2X_ROBE</Code>
+			<Setting>Police_M01</Setting>
+			<PosGroup>mob_A_03</PosGroup>
+			<Sequence>situ\story\J2X_ROBE\JNK00\JNK00_J2X_ROBE_18.Lua</Sequence>
+		</Human>
+		<Human condition="717">
+			<Code>J2X_ROBE</Code>
+			<Setting>Police_M01</Setting>
+			<PosGroup>mob_A_03</PosGroup>
+			<Sequence>situ\story\J2X_ROBE\JNK00\JNK00_J2X_ROBE_17.Lua</Sequence>
+		</Human>
+		<Human condition="714">
+			<Code>J2X_ROBE</Code>
+			<Setting>Police_M01</Setting>
+			<PosGroup>mob_A_03</PosGroup>
+			<Sequence>situ\story\J2X_ROBE\JNK00\JNK00_J2X_ROBE_16.Lua</Sequence>
+		</Human>
+		<Human condition="7">
+			<Code>J2X_ROBE</Code>
+			<Setting>Police_M01</Setting>
+			<PosGroup>mob_A_03</PosGroup>
+			<Sequence>situ\story\J2X_ROBE\JNK00\JNK00_J2X_ROBE_15.Lua</Sequence>
+		</Human>
+		<Human condition="628">
+			<Code>J2X_ROBE</Code>
+			<Setting>Police_M01</Setting>
+			<PosGroup>mob_A_03</PosGroup>
+			<Sequence>situ\story\J2X_ROBE\JNK00\JNK00_J2X_ROBE_14.Lua</Sequence>
+		</Human>
+		<Human condition="6">
+			<Code>J2X_ROBE</Code>
+			<Setting>Police_M01</Setting>
+			<PosGroup>mob_A_03</PosGroup>
+			<Sequence>situ\story\J2X_ROBE\JNK00\JNK00_J2X_ROBE_13.Lua</Sequence>
+		</Human>
+		<Human condition="553">
+			<Code>J2X_ROBE</Code>
+			<Setting>Police_M01</Setting>
+			<PosGroup>mob_A_03</PosGroup>
+			<Sequence>situ\story\J2X_ROBE\JNK00\JNK00_J2X_ROBE_12.Lua</Sequence>
+		</Human>
+		<Human condition="5">
+			<Code>J2X_ROBE</Code>
+			<Setting>Police_M01</Setting>
+			<PosGroup>mob_A_03</PosGroup>
+			<Sequence>situ\story\J2X_ROBE\JNK00\JNK00_J2X_ROBE_11.Lua</Sequence>
+		</Human>
+		<Human condition="437">
+			<Code>J2X_ROBE</Code>
+			<Setting>Police_M01</Setting>
+			<PosGroup>mob_A_03</PosGroup>
+			<Sequence>situ\story\J2X_ROBE\JNK00\JNK00_J2X_ROBE_10.Lua</Sequence>
+		</Human>
+		<Human condition="4">
+			<Code>J2X_ROBE</Code>
+			<Setting>Police_M01</Setting>
+			<PosGroup>mob_A_03</PosGroup>
+			<Sequence>situ\story\J2X_ROBE\JNK00\JNK00_J2X_ROBE_09.Lua</Sequence>
+		</Human>
+		<Human condition="377">
+			<Code>J2X_ROBE</Code>
+			<Setting>Police_M01</Setting>
+			<PosGroup>mob_A_03</PosGroup>
+			<Sequence>situ\story\J2X_ROBE\JNK00\JNK00_J2X_ROBE_08.Lua</Sequence>
+		</Human>
+		<Human condition="349">
+			<Code>J2X_ROBE</Code>
+			<Setting>Police_M01</Setting>
+			<PosGroup>mob_A_03</PosGroup>
+			<Sequence>situ\story\J2X_ROBE\JNK00\JNK00_J2X_ROBE_07.Lua</Sequence>
+		</Human>
+		<Human condition="328">
+			<Code>J2X_ROBE</Code>
+			<Setting>Police_M01</Setting>
+			<PosGroup>mob_A_03</PosGroup>
+			<Sequence>situ\story\J2X_ROBE\JNK00\JNK00_J2X_ROBE_06.Lua</Sequence>
+		</Human>
+		<Human condition="297">
+			<Code>J2X_ROBE</Code>
+			<Setting>Police_M01</Setting>
+			<PosGroup>mob_A_03</PosGroup>
+			<Sequence>situ\story\J2X_ROBE\JNK00\JNK00_J2X_ROBE_05.Lua</Sequence>
+		</Human>
+		<Human condition="292">
+			<Code>J2X_ROBE</Code>
+			<Setting>Police_M01</Setting>
+			<PosGroup>mob_A_03</PosGroup>
+			<Sequence>situ\story\J2X_ROBE\JNK00\JNK00_J2X_ROBE_04.Lua</Sequence>
+		</Human>
+		<Human condition="257">
+			<Code>J2X_ROBE</Code>
+			<Setting>Police_M01</Setting>
+			<PosGroup>mob_A_03</PosGroup>
+			<Sequence>situ\story\J2X_ROBE\JNK00\JNK00_J2X_ROBE_03.Lua</Sequence>
+		</Human>
+		<Human condition="220">
+			<Code>J2X_ROBE</Code>
+			<Setting>Police_M01</Setting>
+			<PosGroup>mob_A_03</PosGroup>
+			<Sequence>situ\story\J2X_ROBE\JNK00\JNK00_J2X_ROBE_02.Lua</Sequence>
+		</Human>
+		<Human condition="1">
+			<Code>J2X_ROBE</Code>
+			<Setting>Police_M01</Setting>
+			<PosGroup>mob_A_03</PosGroup>
+			<Sequence>situ\story\J2X_ROBE\JNK00\JNK00_J2X_ROBE_01.Lua</Sequence>
+		</Human>
+		<Human condition="8">
+			<Code>J2T_KARL</Code>
+			<Setting>mob\MOB_TOG_ROU01_MAL_400</Setting>
+			<PrisonTerm>763290</PrisonTerm>
+			<PosGroup>mob_A_06</PosGroup>
+			<Sequence>situ\story\J2T_KARL\JNK00\JNK00_J2T_KARL_03.Lua</Sequence>
+		</Human>
+		<Human condition="717">
+			<Code>J2T_KARL</Code>
+			<Setting>mob\MOB_TOG_ROU01_MAL_400</Setting>
+			<PrisonTerm>763530</PrisonTerm>
+			<PosGroup>mob_A_06</PosGroup>
+			<Sequence>situ\story\J2T_KARL\JNK00\JNK00_J2T_KARL_07.Lua</Sequence>
+		</Human>
+		<Human condition="714">
+			<Code>J2T_KARL</Code>
+			<Setting>mob\MOB_TOG_ROU01_MAL_400</Setting>
+			<PrisonTerm>764000</PrisonTerm>
+			<PosGroup>mob_A_06</PosGroup>
+			<Sequence>situ\story\J2T_KARL\JNK00\JNK00_J2T_KARL_03.Lua</Sequence>
+		</Human>
+		<Human condition="628">
+			<Code>J2T_KARL</Code>
+			<Setting>mob\MOB_TOG_ROU01_MAL_400</Setting>
+			<PrisonTerm>766050</PrisonTerm>
+			<PosGroup>mob_A_06</PosGroup>
+			<Sequence>situ\story\J2T_KARL\JNK00\JNK00_J2T_KARL_06.Lua</Sequence>
+		</Human>
+		<Human condition="553">
+			<Code>J2T_KARL</Code>
+			<Setting>mob\MOB_TOG_ROU01_MAL_400</Setting>
+			<PrisonTerm>766270</PrisonTerm>
+			<PosGroup>mob_A_06</PosGroup>
+			<Sequence>situ\story\J2T_KARL\JNK00\JNK00_J2T_KARL_02.Lua</Sequence>
+		</Human>
+		<Human condition="5">
+			<Code>J2T_KARL</Code>
+			<Setting>mob\MOB_TOG_ROU01_MAL_400</Setting>
+			<PrisonTerm>766430</PrisonTerm>
+			<PosGroup>mob_A_06</PosGroup>
+			<Sequence>situ\story\J2T_KARL\JNK00\JNK00_J2T_KARL_05.Lua</Sequence>
+		</Human>
+		<Human condition="4">
+			<Code>J2T_KARL</Code>
+			<Setting>mob\MOB_TOG_ROU01_MAL_400</Setting>
+			<PrisonTerm>767420</PrisonTerm>
+			<PosGroup>mob_A_06</PosGroup>
+			<Sequence>situ\story\J2T_KARL\JNK00\JNK00_J2T_KARL_02.Lua</Sequence>
+		</Human>
+		<Human condition="297">
+			<Code>J2T_KARL</Code>
+			<Setting>mob\MOB_TOG_ROU01_MAL_400</Setting>
+			<PrisonTerm>768780</PrisonTerm>
+			<PosGroup>mob_A_06</PosGroup>
+			<Sequence>situ\story\J2T_KARL\JNK00\JNK00_J2T_KARL_01.Lua</Sequence>
+		</Human>
+		<Human condition="292">
+			<Code>J2T_KARL</Code>
+			<Setting>mob\MOB_TOG_ROU01_MAL_400</Setting>
+			<PrisonTerm>769260</PrisonTerm>
+			<PosGroup>mob_A_06</PosGroup>
+			<Sequence>situ\story\J2T_KARL\JNK00\JNK00_J2T_KARL_04.Lua</Sequence>
+		</Human>
+		<Human condition="1">
+			<Code>J2T_KARL</Code>
+			<Setting>mob\MOB_TOG_ROU01_MAL_400</Setting>
+			<PrisonTerm>769810</PrisonTerm>
+			<PosGroup>mob_A_06</PosGroup>
+			<Sequence>situ\story\J2T_KARL\JNK00\JNK00_J2T_KARL_01.Lua</Sequence>
+		</Human>
+		<Android condition="1">
+			<Code>J2A_KLAC</Code>
+			<Setting>PrimefieldAndroidF01</Setting>
+			<PosGroup>accessory_A_00</PosGroup>
+			<Sequence>situ\story\J2A_KLAC\JNK00\JNK00_J2A_KLAC_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Android>
+		<Citizen condition="8">
+			<Code>J2C_NORE</Code>
+			<Setting>CIV_004_WMN_WHT</Setting>
+			<PosGroup>mob_B_03</PosGroup>
+			<Sequence>situ\story\J2C_NORE\JNK00\JNK00_J2C_NORE_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Citizen>
+		<Citizen condition="717">
+			<Code>J2C_NORE</Code>
+			<Setting>CIV_004_WMN_WHT</Setting>
+			<PosGroup>mob_B_03</PosGroup>
+			<Sequence>situ\story\J2C_NORE\JNK00\JNK00_J2C_NORE_07.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Citizen>
+		<Citizen condition="714">
+			<Code>J2C_NORE</Code>
+			<Setting>CIV_004_WMN_WHT</Setting>
+			<PosGroup>mob_B_03</PosGroup>
+			<Sequence>situ\story\J2C_NORE\JNK00\JNK00_J2C_NORE_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Citizen>
+		<Citizen condition="628">
+			<Code>J2C_NORE</Code>
+			<Setting>CIV_004_WMN_WHT</Setting>
+			<PosGroup>mob_B_03</PosGroup>
+			<Sequence>situ\story\J2C_NORE\JNK00\JNK00_J2C_NORE_06.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Citizen>
+		<Citizen condition="553">
+			<Code>J2C_NORE</Code>
+			<Setting>CIV_004_WMN_WHT</Setting>
+			<PosGroup>mob_B_03</PosGroup>
+			<Sequence>situ\story\J2C_NORE\JNK00\JNK00_J2C_NORE_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Citizen>
+		<Citizen condition="5">
+			<Code>J2C_NORE</Code>
+			<Setting>CIV_004_WMN_WHT</Setting>
+			<PosGroup>mob_B_03</PosGroup>
+			<Sequence>situ\story\J2C_NORE\JNK00\JNK00_J2C_NORE_05.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Citizen>
+		<Citizen condition="4">
+			<Code>J2C_NORE</Code>
+			<Setting>CIV_004_WMN_WHT</Setting>
+			<PosGroup>mob_B_03</PosGroup>
+			<Sequence>situ\story\J2C_NORE\JNK00\JNK00_J2C_NORE_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Citizen>
+		<Citizen condition="297">
+			<Code>J2C_NORE</Code>
+			<Setting>CIV_004_WMN_WHT</Setting>
+			<PosGroup>mob_B_03</PosGroup>
+			<Sequence>situ\story\J2C_NORE\JNK00\JNK00_J2C_NORE_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Citizen>
+		<Citizen condition="292">
+			<Code>J2C_NORE</Code>
+			<Setting>CIV_004_WMN_WHT</Setting>
+			<PosGroup>mob_B_03</PosGroup>
+			<Sequence>situ\story\J2C_NORE\JNK00\JNK00_J2C_NORE_04.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Citizen>
+		<Citizen condition="1">
+			<Code>J2C_NORE</Code>
+			<Setting>CIV_004_WMN_WHT</Setting>
+			<PosGroup>mob_B_03</PosGroup>
+			<Sequence>situ\story\J2C_NORE\JNK00\JNK00_J2C_NORE_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Citizen>
+		<Citizen condition="8">
+			<Code>J2C_MARY</Code>
+			<Setting>CIV_005_WMN_YEL</Setting>
+			<PosGroup>mob_A_04</PosGroup>
+			<Sequence>situ\story\J2C_MARY\JNK00\JNK00_J2C_MARY_18.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="717">
+			<Code>J2C_MARY</Code>
+			<Setting>CIV_005_WMN_YEL</Setting>
+			<PosGroup>mob_A_04</PosGroup>
+			<Sequence>situ\story\J2C_MARY\JNK00\JNK00_J2C_MARY_17.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="714">
+			<Code>J2C_MARY</Code>
+			<Setting>CIV_005_WMN_YEL</Setting>
+			<PosGroup>mob_A_04</PosGroup>
+			<Sequence>situ\story\J2C_MARY\JNK00\JNK00_J2C_MARY_16.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="7">
+			<Code>J2C_MARY</Code>
+			<Setting>CIV_005_WMN_YEL</Setting>
+			<PosGroup>mob_A_04</PosGroup>
+			<Sequence>situ\story\J2C_MARY\JNK00\JNK00_J2C_MARY_15.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="628">
+			<Code>J2C_MARY</Code>
+			<Setting>CIV_005_WMN_YEL</Setting>
+			<PosGroup>mob_A_04</PosGroup>
+			<Sequence>situ\story\J2C_MARY\JNK00\JNK00_J2C_MARY_14.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="6">
+			<Code>J2C_MARY</Code>
+			<Setting>CIV_005_WMN_YEL</Setting>
+			<PosGroup>mob_A_04</PosGroup>
+			<Sequence>situ\story\J2C_MARY\JNK00\JNK00_J2C_MARY_13.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="553">
+			<Code>J2C_MARY</Code>
+			<Setting>CIV_005_WMN_YEL</Setting>
+			<PosGroup>mob_A_04</PosGroup>
+			<Sequence>situ\story\J2C_MARY\JNK00\JNK00_J2C_MARY_12.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="5">
+			<Code>J2C_MARY</Code>
+			<Setting>CIV_005_WMN_YEL</Setting>
+			<PosGroup>mob_A_04</PosGroup>
+			<Sequence>situ\story\J2C_MARY\JNK00\JNK00_J2C_MARY_11.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="437">
+			<Code>J2C_MARY</Code>
+			<Setting>CIV_005_WMN_YEL</Setting>
+			<PosGroup>mob_A_04</PosGroup>
+			<Sequence>situ\story\J2C_MARY\JNK00\JNK00_J2C_MARY_10.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="4">
+			<Code>J2C_MARY</Code>
+			<Setting>CIV_005_WMN_YEL</Setting>
+			<PosGroup>mob_A_04</PosGroup>
+			<Sequence>situ\story\J2C_MARY\JNK00\JNK00_J2C_MARY_09.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="377">
+			<Code>J2C_MARY</Code>
+			<Setting>CIV_005_WMN_YEL</Setting>
+			<PosGroup>mob_A_04</PosGroup>
+			<Sequence>situ\story\J2C_MARY\JNK00\JNK00_J2C_MARY_08.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="349">
+			<Code>J2C_MARY</Code>
+			<Setting>CIV_005_WMN_YEL</Setting>
+			<PosGroup>mob_A_04</PosGroup>
+			<Sequence>situ\story\J2C_MARY\JNK00\JNK00_J2C_MARY_07.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="328">
+			<Code>J2C_MARY</Code>
+			<Setting>CIV_005_WMN_YEL</Setting>
+			<PosGroup>mob_A_04</PosGroup>
+			<Sequence>situ\story\J2C_MARY\JNK00\JNK00_J2C_MARY_06.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="297">
+			<Code>J2C_MARY</Code>
+			<Setting>CIV_005_WMN_YEL</Setting>
+			<PosGroup>mob_A_04</PosGroup>
+			<Sequence>situ\story\J2C_MARY\JNK00\JNK00_J2C_MARY_05.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="292">
+			<Code>J2C_MARY</Code>
+			<Setting>CIV_005_WMN_YEL</Setting>
+			<PosGroup>mob_A_04</PosGroup>
+			<Sequence>situ\story\J2C_MARY\JNK00\JNK00_J2C_MARY_04.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="257">
+			<Code>J2C_MARY</Code>
+			<Setting>CIV_005_WMN_YEL</Setting>
+			<PosGroup>mob_A_04</PosGroup>
+			<Sequence>situ\story\J2C_MARY\JNK00\JNK00_J2C_MARY_03.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="220">
+			<Code>J2C_MARY</Code>
+			<Setting>CIV_005_WMN_YEL</Setting>
+			<PosGroup>mob_A_04</PosGroup>
+			<Sequence>situ\story\J2C_MARY\JNK00\JNK00_J2C_MARY_02.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="1">
+			<Code>J2C_MARY</Code>
+			<Setting>CIV_005_WMN_YEL</Setting>
+			<PosGroup>mob_A_04</PosGroup>
+			<Sequence>situ\story\J2C_MARY\JNK00\JNK00_J2C_MARY_01.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="8">
+			<Code>J2C_ALLA</Code>
+			<Setting>CIV_001_MAN_WHT</Setting>
+			<PosGroup>mob_A_07</PosGroup>
+			<Sequence>situ\story\J2C_ALLA\JNK00\JNK00_J2C_ALLA_18.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="717">
+			<Code>J2C_ALLA</Code>
+			<Setting>CIV_001_MAN_WHT</Setting>
+			<PosGroup>mob_A_07</PosGroup>
+			<Sequence>situ\story\J2C_ALLA\JNK00\JNK00_J2C_ALLA_17.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="714">
+			<Code>J2C_ALLA</Code>
+			<Setting>CIV_001_MAN_WHT</Setting>
+			<PosGroup>mob_A_07</PosGroup>
+			<Sequence>situ\story\J2C_ALLA\JNK00\JNK00_J2C_ALLA_16.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="7">
+			<Code>J2C_ALLA</Code>
+			<Setting>CIV_001_MAN_WHT</Setting>
+			<PosGroup>mob_A_07</PosGroup>
+			<Sequence>situ\story\J2C_ALLA\JNK00\JNK00_J2C_ALLA_15.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="628">
+			<Code>J2C_ALLA</Code>
+			<Setting>CIV_001_MAN_WHT</Setting>
+			<PosGroup>mob_A_07</PosGroup>
+			<Sequence>situ\story\J2C_ALLA\JNK00\JNK00_J2C_ALLA_14.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="6">
+			<Code>J2C_ALLA</Code>
+			<Setting>CIV_001_MAN_WHT</Setting>
+			<PosGroup>mob_A_07</PosGroup>
+			<Sequence>situ\story\J2C_ALLA\JNK00\JNK00_J2C_ALLA_13.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="553">
+			<Code>J2C_ALLA</Code>
+			<Setting>CIV_001_MAN_WHT</Setting>
+			<PosGroup>mob_A_07</PosGroup>
+			<Sequence>situ\story\J2C_ALLA\JNK00\JNK00_J2C_ALLA_12.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="5">
+			<Code>J2C_ALLA</Code>
+			<Setting>CIV_001_MAN_WHT</Setting>
+			<PosGroup>mob_A_07</PosGroup>
+			<Sequence>situ\story\J2C_ALLA\JNK00\JNK00_J2C_ALLA_11.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="437">
+			<Code>J2C_ALLA</Code>
+			<Setting>CIV_001_MAN_WHT</Setting>
+			<PosGroup>mob_A_07</PosGroup>
+			<Sequence>situ\story\J2C_ALLA\JNK00\JNK00_J2C_ALLA_10.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="4">
+			<Code>J2C_ALLA</Code>
+			<Setting>CIV_001_MAN_WHT</Setting>
+			<PosGroup>mob_A_07</PosGroup>
+			<Sequence>situ\story\J2C_ALLA\JNK00\JNK00_J2C_ALLA_09.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="377">
+			<Code>J2C_ALLA</Code>
+			<Setting>CIV_001_MAN_WHT</Setting>
+			<PosGroup>mob_A_07</PosGroup>
+			<Sequence>situ\story\J2C_ALLA\JNK00\JNK00_J2C_ALLA_08.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="349">
+			<Code>J2C_ALLA</Code>
+			<Setting>CIV_001_MAN_WHT</Setting>
+			<PosGroup>mob_A_07</PosGroup>
+			<Sequence>situ\story\J2C_ALLA\JNK00\JNK00_J2C_ALLA_07.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="328">
+			<Code>J2C_ALLA</Code>
+			<Setting>CIV_001_MAN_WHT</Setting>
+			<PosGroup>mob_A_07</PosGroup>
+			<Sequence>situ\story\J2C_ALLA\JNK00\JNK00_J2C_ALLA_06.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="297">
+			<Code>J2C_ALLA</Code>
+			<Setting>CIV_001_MAN_WHT</Setting>
+			<PosGroup>mob_A_07</PosGroup>
+			<Sequence>situ\story\J2C_ALLA\JNK00\JNK00_J2C_ALLA_05.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="292">
+			<Code>J2C_ALLA</Code>
+			<Setting>CIV_001_MAN_WHT</Setting>
+			<PosGroup>mob_A_07</PosGroup>
+			<Sequence>situ\story\J2C_ALLA\JNK00\JNK00_J2C_ALLA_04.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="257">
+			<Code>J2C_ALLA</Code>
+			<Setting>CIV_001_MAN_WHT</Setting>
+			<PosGroup>mob_A_07</PosGroup>
+			<Sequence>situ\story\J2C_ALLA\JNK00\JNK00_J2C_ALLA_03.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="220">
+			<Code>J2C_ALLA</Code>
+			<Setting>CIV_001_MAN_WHT</Setting>
+			<PosGroup>mob_A_07</PosGroup>
+			<Sequence>situ\story\J2C_ALLA\JNK00\JNK00_J2C_ALLA_02.Lua</Sequence>
+		</Citizen>
+		<Citizen condition="1">
+			<Code>J2C_ALLA</Code>
+			<Setting>CIV_001_MAN_WHT</Setting>
+			<PosGroup>mob_A_07</PosGroup>
+			<Sequence>situ\story\J2C_ALLA\JNK00\JNK00_J2C_ALLA_01.Lua</Sequence>
+		</Citizen>
+		<Human condition="1">
+			<Code>J2A_CRAZ</Code>
+			<Setting>Mayo</Setting>
+			<PosGroup>mob_A_00</PosGroup>
+			<PrisonTerm>9999999</PrisonTerm>
+			<Sequence>situ\story\J2A_CRAZ\JNK00\JNK00_J2A_CRAZ_01.Lua</Sequence>
+		</Human>
+		<Human condition="8">
+			<Code>J2T_REMI</Code>
+			<Setting>Remigio</Setting>
+			<PrisonTerm>1499080</PrisonTerm>
+			<PosGroup>mob_B2_02</PosGroup>
+			<Sequence>situ\story\J2T_REMI\JNK00\JNK00_J2T_REMI_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="717">
+			<Code>J2T_REMI</Code>
+			<Setting>Remigio</Setting>
+			<PrisonTerm>1499100</PrisonTerm>
+			<PosGroup>mob_B2_02</PosGroup>
+			<Sequence>situ\story\J2T_REMI\JNK00\JNK00_J2T_REMI_07.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="714">
+			<Code>J2T_REMI</Code>
+			<Setting>Remigio</Setting>
+			<PrisonTerm>1499220</PrisonTerm>
+			<PosGroup>mob_B2_02</PosGroup>
+			<Sequence>situ\story\J2T_REMI\JNK00\JNK00_J2T_REMI_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="628">
+			<Code>J2T_REMI</Code>
+			<Setting>Remigio</Setting>
+			<PrisonTerm>1499360</PrisonTerm>
+			<PosGroup>mob_B2_02</PosGroup>
+			<Sequence>situ\story\J2T_REMI\JNK00\JNK00_J2T_REMI_06.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="605">
+			<Code>J2T_REMI</Code>
+			<Setting>Remigio</Setting>
+			<PrisonTerm>1499480</PrisonTerm>
+			<PosGroup>mob_B2_02</PosGroup>
+			<Sequence>situ\story\J2T_REMI\JNK00\JNK00_J2T_REMI_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="604">
+			<Code>J2T_REMI</Code>
+		</Human>
+		<Human condition="553">
+			<Code>J2T_REMI</Code>
+			<Setting>Remigio</Setting>
+			<PrisonTerm>1499480</PrisonTerm>
+			<PosGroup>mob_B2_02</PosGroup>
+			<Sequence>situ\story\J2T_REMI\JNK00\JNK00_J2T_REMI_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="5">
+			<Code>J2T_REMI</Code>
+			<Setting>Remigio</Setting>
+			<PrisonTerm>1499630</PrisonTerm>
+			<PosGroup>mob_B2_02</PosGroup>
+			<Sequence>situ\story\J2T_REMI\JNK00\JNK00_J2T_REMI_05.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="435">
+			<Code>J2T_REMI</Code>
+			<Setting>Remigio</Setting>
+			<PrisonTerm>1499640</PrisonTerm>
+			<PosGroup>mob_B2_02</PosGroup>
+			<Sequence>situ\story\J2T_REMI\JNK00\JNK00_J2T_REMI_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="423">
+			<Code>J2T_REMI</Code>
+		</Human>
+		<Human condition="4">
+			<Code>J2T_REMI</Code>
+			<Setting>Remigio</Setting>
+			<PrisonTerm>1499640</PrisonTerm>
+			<PosGroup>mob_B2_02</PosGroup>
+			<Sequence>situ\story\J2T_REMI\JNK00\JNK00_J2T_REMI_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="326">
+			<Code>J2T_REMI</Code>
+			<Setting>Remigio</Setting>
+			<PrisonTerm>1499810</PrisonTerm>
+			<PosGroup>mob_B2_02</PosGroup>
+			<Sequence>situ\story\J2T_REMI\JNK00\JNK00_J2T_REMI_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="321">
+			<Code>J2T_REMI</Code>
+		</Human>
+		<Human condition="297">
+			<Code>J2T_REMI</Code>
+			<Setting>Remigio</Setting>
+			<PrisonTerm>1499810</PrisonTerm>
+			<PosGroup>mob_B2_02</PosGroup>
+			<Sequence>situ\story\J2T_REMI\JNK00\JNK00_J2T_REMI_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="292">
+			<Code>J2T_REMI</Code>
+			<Setting>Remigio</Setting>
+			<PrisonTerm>1499820</PrisonTerm>
+			<PosGroup>mob_B2_02</PosGroup>
+			<Sequence>situ\story\J2T_REMI\JNK00\JNK00_J2T_REMI_04.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="1">
+			<Code>J2T_REMI</Code>
+			<Setting>Remigio</Setting>
+			<PrisonTerm>1499910</PrisonTerm>
+			<PosGroup>mob_B2_02</PosGroup>
+			<Sequence>situ\story\J2T_REMI\JNK00\JNK00_J2T_REMI_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="8">
+			<Code>J2X_SOLJ</Code>
+			<Setting>mob\MOB_TOG_ROU01_FEM_300</Setting>
+			<PosGroup>mob_C_01</PosGroup>
+			<Sequence>situ\story\J2X_SOLJ\JNK00\JNK00_J2X_SOLJ_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="717">
+			<Code>J2X_SOLJ</Code>
+			<Setting>mob\MOB_TOG_ROU01_FEM_300</Setting>
+			<PosGroup>mob_C_01</PosGroup>
+			<Sequence>situ\story\J2X_SOLJ\JNK00\JNK00_J2X_SOLJ_07.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="714">
+			<Code>J2X_SOLJ</Code>
+			<Setting>mob\MOB_TOG_ROU01_FEM_300</Setting>
+			<PosGroup>mob_C_01</PosGroup>
+			<Sequence>situ\story\J2X_SOLJ\JNK00\JNK00_J2X_SOLJ_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="628">
+			<Code>J2X_SOLJ</Code>
+			<Setting>mob\MOB_TOG_ROU01_FEM_300</Setting>
+			<PosGroup>mob_C_01</PosGroup>
+			<Sequence>situ\story\J2X_SOLJ\JNK00\JNK00_J2X_SOLJ_06.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="553">
+			<Code>J2X_SOLJ</Code>
+			<Setting>mob\MOB_TOG_ROU01_FEM_300</Setting>
+			<PosGroup>mob_C_01</PosGroup>
+			<Sequence>situ\story\J2X_SOLJ\JNK00\JNK00_J2X_SOLJ_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="5">
+			<Code>J2X_SOLJ</Code>
+			<Setting>mob\MOB_TOG_ROU01_FEM_300</Setting>
+			<PosGroup>mob_C_01</PosGroup>
+			<Sequence>situ\story\J2X_SOLJ\JNK00\JNK00_J2X_SOLJ_05.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="4">
+			<Code>J2X_SOLJ</Code>
+			<Setting>mob\MOB_TOG_ROU01_FEM_300</Setting>
+			<PosGroup>mob_C_01</PosGroup>
+			<Sequence>situ\story\J2X_SOLJ\JNK00\JNK00_J2X_SOLJ_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="297">
+			<Code>J2X_SOLJ</Code>
+			<Setting>mob\MOB_TOG_ROU01_FEM_300</Setting>
+			<PosGroup>mob_C_01</PosGroup>
+			<Sequence>situ\story\J2X_SOLJ\JNK00\JNK00_J2X_SOLJ_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="292">
+			<Code>J2X_SOLJ</Code>
+			<Setting>mob\MOB_TOG_ROU01_FEM_300</Setting>
+			<PosGroup>mob_C_01</PosGroup>
+			<Sequence>situ\story\J2X_SOLJ\JNK00\JNK00_J2X_SOLJ_04.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="1">
+			<Code>J2X_SOLJ</Code>
+			<Setting>mob\MOB_TOG_ROU01_FEM_300</Setting>
+			<PosGroup>mob_C_01</PosGroup>
+			<Sequence>situ\story\J2X_SOLJ\JNK00\JNK00_J2X_SOLJ_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="8">
+			<Code>J2X_SASA</Code>
+			<Setting>JNK_F02</Setting>
+			<PosGroup>mob_C_05</PosGroup>
+			<Sequence>situ\story\J2X_SASA\JNK00\JNK00_J2X_SASA_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="717">
+			<Code>J2X_SASA</Code>
+			<Setting>JNK_F02</Setting>
+			<PosGroup>mob_C_05</PosGroup>
+			<Sequence>situ\story\J2X_SASA\JNK00\JNK00_J2X_SASA_07.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="714">
+			<Code>J2X_SASA</Code>
+			<Setting>JNK_F02</Setting>
+			<PosGroup>mob_C_05</PosGroup>
+			<Sequence>situ\story\J2X_SASA\JNK00\JNK00_J2X_SASA_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="628">
+			<Code>J2X_SASA</Code>
+			<Setting>JNK_F02</Setting>
+			<PosGroup>mob_C_05</PosGroup>
+			<Sequence>situ\story\J2X_SASA\JNK00\JNK00_J2X_SASA_06.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="553">
+			<Code>J2X_SASA</Code>
+			<Setting>JNK_F02</Setting>
+			<PosGroup>mob_C_05</PosGroup>
+			<Sequence>situ\story\J2X_SASA\JNK00\JNK00_J2X_SASA_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="5">
+			<Code>J2X_SASA</Code>
+			<Setting>JNK_F02</Setting>
+			<PosGroup>mob_C_05</PosGroup>
+			<Sequence>situ\story\J2X_SASA\JNK00\JNK00_J2X_SASA_05.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="4">
+			<Code>J2X_SASA</Code>
+			<Setting>JNK_F02</Setting>
+			<PosGroup>mob_C_05</PosGroup>
+			<Sequence>situ\story\J2X_SASA\JNK00\JNK00_J2X_SASA_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="297">
+			<Code>J2X_SASA</Code>
+			<Setting>JNK_F02</Setting>
+			<PosGroup>mob_C_05</PosGroup>
+			<Sequence>situ\story\J2X_SASA\JNK00\JNK00_J2X_SASA_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="292">
+			<Code>J2X_SASA</Code>
+			<Setting>JNK_F02</Setting>
+			<PosGroup>mob_C_05</PosGroup>
+			<Sequence>situ\story\J2X_SASA\JNK00\JNK00_J2X_SASA_04.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="1">
+			<Code>J2X_SASA</Code>
+			<Setting>JNK_F02</Setting>
+			<PosGroup>mob_C_05</PosGroup>
+			<Sequence>situ\story\J2X_SASA\JNK00\JNK00_J2X_SASA_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="8">
+			<Code>J2T_SOFI</Code>
+			<Setting>mob\MOB_TOG_ROU05_FEM_100</Setting>
+			<PrisonTerm>892040</PrisonTerm>
+			<PosGroup>mob_A_05</PosGroup>
+			<Sequence>situ\story\J2T_SOFI\JNK00\JNK00_J2T_SOFI_18.Lua</Sequence>
+		</Human>
+		<Human condition="717">
+			<Code>J2T_SOFI</Code>
+			<Setting>mob\MOB_TOG_ROU05_FEM_100</Setting>
+			<PrisonTerm>904070</PrisonTerm>
+			<PosGroup>mob_A_05</PosGroup>
+			<Sequence>situ\story\J2T_SOFI\JNK00\JNK00_J2T_SOFI_17.Lua</Sequence>
+		</Human>
+		<Human condition="714">
+			<Code>J2T_SOFI</Code>
+			<Setting>mob\MOB_TOG_ROU05_FEM_100</Setting>
+			<PrisonTerm>904400</PrisonTerm>
+			<PosGroup>mob_A_05</PosGroup>
+			<Sequence>situ\story\J2T_SOFI\JNK00\JNK00_J2T_SOFI_16.Lua</Sequence>
+		</Human>
+		<Human condition="7">
+			<Code>J2T_SOFI</Code>
+			<Setting>mob\MOB_TOG_ROU05_FEM_100</Setting>
+			<PrisonTerm>906800</PrisonTerm>
+			<PosGroup>mob_A_05</PosGroup>
+			<Sequence>situ\story\J2T_SOFI\JNK00\JNK00_J2T_SOFI_15.Lua</Sequence>
+		</Human>
+		<Human condition="628">
+			<Code>J2T_SOFI</Code>
+			<Setting>mob\MOB_TOG_ROU05_FEM_100</Setting>
+			<PrisonTerm>912160</PrisonTerm>
+			<PosGroup>mob_A_05</PosGroup>
+			<Sequence>situ\story\J2T_SOFI\JNK00\JNK00_J2T_SOFI_14.Lua</Sequence>
+		</Human>
+		<Human condition="6">
+			<Code>J2T_SOFI</Code>
+			<Setting>mob\MOB_TOG_ROU05_FEM_100</Setting>
+			<PrisonTerm>913440</PrisonTerm>
+			<PosGroup>mob_A_05</PosGroup>
+			<Sequence>situ\story\J2T_SOFI\JNK00\JNK00_J2T_SOFI_13.Lua</Sequence>
+		</Human>
+		<Human condition="553">
+			<Code>J2T_SOFI</Code>
+			<Setting>mob\MOB_TOG_ROU05_FEM_100</Setting>
+			<PrisonTerm>923600</PrisonTerm>
+			<PosGroup>mob_A_05</PosGroup>
+			<Sequence>situ\story\J2T_SOFI\JNK00\JNK00_J2T_SOFI_12.Lua</Sequence>
+		</Human>
+		<Human condition="5">
+			<Code>J2T_SOFI</Code>
+			<Setting>mob\MOB_TOG_ROU05_FEM_100</Setting>
+			<PrisonTerm>927020</PrisonTerm>
+			<PosGroup>mob_A_05</PosGroup>
+			<Sequence>situ\story\J2T_SOFI\JNK00\JNK00_J2T_SOFI_11.Lua</Sequence>
+		</Human>
+		<Human condition="437">
+			<Code>J2T_SOFI</Code>
+			<Setting>mob\MOB_TOG_ROU05_FEM_100</Setting>
+			<PrisonTerm>933040</PrisonTerm>
+			<PosGroup>mob_A_05</PosGroup>
+			<Sequence>situ\story\J2T_SOFI\JNK00\JNK00_J2T_SOFI_10.Lua</Sequence>
+		</Human>
+		<Human condition="4">
+			<Code>J2T_SOFI</Code>
+			<Setting>mob\MOB_TOG_ROU05_FEM_100</Setting>
+			<PrisonTerm>937300</PrisonTerm>
+			<PosGroup>mob_A_05</PosGroup>
+			<Sequence>situ\story\J2T_SOFI\JNK00\JNK00_J2T_SOFI_09.Lua</Sequence>
+		</Human>
+		<Human condition="377">
+			<Code>J2T_SOFI</Code>
+			<Setting>mob\MOB_TOG_ROU05_FEM_100</Setting>
+			<PrisonTerm>942260</PrisonTerm>
+			<PosGroup>mob_A_05</PosGroup>
+			<Sequence>situ\story\J2T_SOFI\JNK00\JNK00_J2T_SOFI_08.Lua</Sequence>
+		</Human>
+		<Human condition="349">
+			<Code>J2T_SOFI</Code>
+			<Setting>mob\MOB_TOG_ROU05_FEM_100</Setting>
+			<PrisonTerm>944790</PrisonTerm>
+			<PosGroup>mob_A_05</PosGroup>
+			<Sequence>situ\story\J2T_SOFI\JNK00\JNK00_J2T_SOFI_07.Lua</Sequence>
+		</Human>
+		<Human condition="328">
+			<Code>J2T_SOFI</Code>
+			<Setting>mob\MOB_TOG_ROU05_FEM_100</Setting>
+			<PrisonTerm>959230</PrisonTerm>
+			<PosGroup>mob_A_05</PosGroup>
+			<Sequence>situ\story\J2T_SOFI\JNK00\JNK00_J2T_SOFI_06.Lua</Sequence>
+		</Human>
+		<Human condition="297">
+			<Code>J2T_SOFI</Code>
+			<Setting>mob\MOB_TOG_ROU05_FEM_100</Setting>
+			<PrisonTerm>962080</PrisonTerm>
+			<PosGroup>mob_A_05</PosGroup>
+			<Sequence>situ\story\J2T_SOFI\JNK00\JNK00_J2T_SOFI_05.Lua</Sequence>
+		</Human>
+		<Human condition="292">
+			<Code>J2T_SOFI</Code>
+			<Setting>mob\MOB_TOG_ROU05_FEM_100</Setting>
+			<PrisonTerm>967760</PrisonTerm>
+			<PosGroup>mob_A_05</PosGroup>
+			<Sequence>situ\story\J2T_SOFI\JNK00\JNK00_J2T_SOFI_04.Lua</Sequence>
+		</Human>
+		<Human condition="257">
+			<Code>J2T_SOFI</Code>
+			<Setting>mob\MOB_TOG_ROU05_FEM_100</Setting>
+			<PrisonTerm>968750</PrisonTerm>
+			<PosGroup>mob_A_05</PosGroup>
+			<Sequence>situ\story\J2T_SOFI\JNK00\JNK00_J2T_SOFI_03.Lua</Sequence>
+		</Human>
+		<Human condition="220">
+			<Code>J2T_SOFI</Code>
+			<Setting>mob\MOB_TOG_ROU05_FEM_100</Setting>
+			<PrisonTerm>968990</PrisonTerm>
+			<PosGroup>mob_A_05</PosGroup>
+			<Sequence>situ\story\J2T_SOFI\JNK00\JNK00_J2T_SOFI_02.Lua</Sequence>
+		</Human>
+		<Human condition="1">
+			<Code>J2T_SOFI</Code>
+			<Setting>mob\MOB_TOG_ROU05_FEM_100</Setting>
+			<PrisonTerm>974390</PrisonTerm>
+			<PosGroup>mob_A_05</PosGroup>
+			<Sequence>situ\story\J2T_SOFI\JNK00\JNK00_J2T_SOFI_01.Lua</Sequence>
+		</Human>
+		<Human condition="8">
+			<Code>J2T_NARC</Code>
+			<Setting>JNK_M02</Setting>
+			<PrisonTerm>1195000</PrisonTerm>
+			<PosGroup>mob_C_00</PosGroup>
+			<Sequence>situ\story\J2T_NARC\JNK00\JNK00_J2T_NARC_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="717">
+			<Code>J2T_NARC</Code>
+			<Setting>mob\MOB_TOG_ROU08_MAL_600</Setting>
+			<PrisonTerm>1195710</PrisonTerm>
+			<PosGroup>mob_C_00</PosGroup>
+			<Sequence>situ\story\J2T_NARC\JNK00\JNK00_J2T_NARC_07.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="714">
+			<Code>J2T_NARC</Code>
+			<Setting>mob\MOB_TOG_ROU05_MAL_400</Setting>
+			<PrisonTerm>1196250</PrisonTerm>
+			<PosGroup>mob_C_00</PosGroup>
+			<Sequence>situ\story\J2T_NARC\JNK00\JNK00_J2T_NARC_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="628">
+			<Code>J2T_NARC</Code>
+			<Setting>mob\MOB_TOG_ROU03_MAL_500</Setting>
+			<PrisonTerm>1196610</PrisonTerm>
+			<PosGroup>mob_C_00</PosGroup>
+			<Sequence>situ\story\J2T_NARC\JNK00\JNK00_J2T_NARC_06.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="553">
+			<Code>J2T_NARC</Code>
+			<Setting>mob\MOB_TOG_ROU06_MAL_400</Setting>
+			<PrisonTerm>1197320</PrisonTerm>
+			<PosGroup>mob_C_00</PosGroup>
+			<Sequence>situ\story\J2T_NARC\JNK00\JNK00_J2T_NARC_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="5">
+			<Code>J2T_NARC</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_500</Setting>
+			<PrisonTerm>1197830</PrisonTerm>
+			<PosGroup>mob_C_00</PosGroup>
+			<Sequence>situ\story\J2T_NARC\JNK00\JNK00_J2T_NARC_05.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="4">
+			<Code>J2T_NARC</Code>
+			<Setting>mob\MOB_TOG_ROU02_MAL_100</Setting>
+			<PrisonTerm>1198480</PrisonTerm>
+			<PosGroup>mob_C_00</PosGroup>
+			<Sequence>situ\story\J2T_NARC\JNK00\JNK00_J2T_NARC_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="297">
+			<Code>J2T_NARC</Code>
+			<Setting>mob\MOB_TOG_ROU04_MAL_400</Setting>
+			<PrisonTerm>1198510</PrisonTerm>
+			<PosGroup>mob_C_00</PosGroup>
+			<Sequence>situ\story\J2T_NARC\JNK00\JNK00_J2T_NARC_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="292">
+			<Code>J2T_NARC</Code>
+			<Setting>mob\MOB_TOG_ROU03_MAL_400</Setting>
+			<PrisonTerm>1199900</PrisonTerm>
+			<PosGroup>mob_C_00</PosGroup>
+			<Sequence>situ\story\J2T_NARC\JNK00\JNK00_J2T_NARC_04.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="1">
+			<Code>J2T_NARC</Code>
+			<Setting>JNK_M02</Setting>
+			<PrisonTerm>1199960</PrisonTerm>
+			<PosGroup>mob_C_00</PosGroup>
+			<Sequence>situ\story\J2T_NARC\JNK00\JNK00_J2T_NARC_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="8">
+			<Code>J2J_KRIS</Code>
+			<Setting>JNK_F03</Setting>
+			<PosGroup>mob_C_04</PosGroup>
+			<Sequence>situ\story\J2J_KRIS\JNK00\JNK00_J2J_KRIS_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="717">
+			<Code>J2J_KRIS</Code>
+			<Setting>JNK_F03</Setting>
+			<PosGroup>mob_C_04</PosGroup>
+			<Sequence>situ\story\J2J_KRIS\JNK00\JNK00_J2J_KRIS_07.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="714">
+			<Code>J2J_KRIS</Code>
+			<Setting>JNK_F03</Setting>
+			<PosGroup>mob_C_04</PosGroup>
+			<Sequence>situ\story\J2J_KRIS\JNK00\JNK00_J2J_KRIS_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="628">
+			<Code>J2J_KRIS</Code>
+			<Setting>JNK_F03</Setting>
+			<PosGroup>mob_C_04</PosGroup>
+			<Sequence>situ\story\J2J_KRIS\JNK00\JNK00_J2J_KRIS_06.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="553">
+			<Code>J2J_KRIS</Code>
+			<Setting>JNK_F03</Setting>
+			<PosGroup>mob_C_04</PosGroup>
+			<Sequence>situ\story\J2J_KRIS\JNK00\JNK00_J2J_KRIS_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="5">
+			<Code>J2J_KRIS</Code>
+			<Setting>JNK_F03</Setting>
+			<PosGroup>mob_C_04</PosGroup>
+			<Sequence>situ\story\J2J_KRIS\JNK00\JNK00_J2J_KRIS_05.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="4">
+			<Code>J2J_KRIS</Code>
+			<Setting>JNK_F03</Setting>
+			<PosGroup>mob_C_04</PosGroup>
+			<Sequence>situ\story\J2J_KRIS\JNK00\JNK00_J2J_KRIS_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="297">
+			<Code>J2J_KRIS</Code>
+			<Setting>JNK_F03</Setting>
+			<PosGroup>mob_C_04</PosGroup>
+			<Sequence>situ\story\J2J_KRIS\JNK00\JNK00_J2J_KRIS_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="292">
+			<Code>J2J_KRIS</Code>
+			<Setting>JNK_F03</Setting>
+			<PosGroup>mob_C_04</PosGroup>
+			<Sequence>situ\story\J2J_KRIS\JNK00\JNK00_J2J_KRIS_04.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="1">
+			<Code>J2J_KRIS</Code>
+			<Setting>JNK_F03</Setting>
+			<PosGroup>mob_C_04</PosGroup>
+			<Sequence>situ\story\J2J_KRIS\JNK00\JNK00_J2J_KRIS_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="8">
+			<Code>J2F_MARY</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C_03</PosGroup>
+			<Sequence>situ\story\J2F_MARY\JNK00\JNK00_J2F_MARY_18.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="717">
+			<Code>J2F_MARY</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C_03</PosGroup>
+			<Sequence>situ\story\J2F_MARY\JNK00\JNK00_J2F_MARY_17.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="714">
+			<Code>J2F_MARY</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C_03</PosGroup>
+			<Sequence>situ\story\J2F_MARY\JNK00\JNK00_J2F_MARY_16.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="7">
+			<Code>J2F_MARY</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C_03</PosGroup>
+			<Sequence>situ\story\J2F_MARY\JNK00\JNK00_J2F_MARY_15.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="628">
+			<Code>J2F_MARY</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C_03</PosGroup>
+			<Sequence>situ\story\J2F_MARY\JNK00\JNK00_J2F_MARY_14.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="6">
+			<Code>J2F_MARY</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C_03</PosGroup>
+			<Sequence>situ\story\J2F_MARY\JNK00\JNK00_J2F_MARY_13.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="553">
+			<Code>J2F_MARY</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C_03</PosGroup>
+			<Sequence>situ\story\J2F_MARY\JNK00\JNK00_J2F_MARY_12.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="5">
+			<Code>J2F_MARY</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C_03</PosGroup>
+			<Sequence>situ\story\J2F_MARY\JNK00\JNK00_J2F_MARY_11.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="437">
+			<Code>J2F_MARY</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C_03</PosGroup>
+			<Sequence>situ\story\J2F_MARY\JNK00\JNK00_J2F_MARY_10.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="4">
+			<Code>J2F_MARY</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C_03</PosGroup>
+			<Sequence>situ\story\J2F_MARY\JNK00\JNK00_J2F_MARY_09.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="377">
+			<Code>J2F_MARY</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C_03</PosGroup>
+			<Sequence>situ\story\J2F_MARY\JNK00\JNK00_J2F_MARY_08.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="349">
+			<Code>J2F_MARY</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C_03</PosGroup>
+			<Sequence>situ\story\J2F_MARY\JNK00\JNK00_J2F_MARY_07.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="328">
+			<Code>J2F_MARY</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C_03</PosGroup>
+			<Sequence>situ\story\J2F_MARY\JNK00\JNK00_J2F_MARY_06.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="297">
+			<Code>J2F_MARY</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C_03</PosGroup>
+			<Sequence>situ\story\J2F_MARY\JNK00\JNK00_J2F_MARY_05.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="292">
+			<Code>J2F_MARY</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C_03</PosGroup>
+			<Sequence>situ\story\J2F_MARY\JNK00\JNK00_J2F_MARY_04.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="257">
+			<Code>J2F_MARY</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C_03</PosGroup>
+			<Sequence>situ\story\J2F_MARY\JNK00\JNK00_J2F_MARY_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="220">
+			<Code>J2F_MARY</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C_03</PosGroup>
+			<Sequence>situ\story\J2F_MARY\JNK00\JNK00_J2F_MARY_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="1">
+			<Code>J2F_MARY</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C_03</PosGroup>
+			<Sequence>situ\story\J2F_MARY\JNK00\JNK00_J2F_MARY_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="8">
+			<Code>J2A_LEDA</Code>
+			<Setting>JNK_F03</Setting>
+			<PosGroup>mob_C_06</PosGroup>
+			<Sequence>situ\story\J2A_LEDA\JNK00\JNK00_J2A_LEDA_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="717">
+			<Code>J2A_LEDA</Code>
+			<Setting>JNK_F03</Setting>
+			<PosGroup>mob_C_06</PosGroup>
+			<Sequence>situ\story\J2A_LEDA\JNK00\JNK00_J2A_LEDA_07.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="714">
+			<Code>J2A_LEDA</Code>
+			<Setting>JNK_F03</Setting>
+			<PosGroup>mob_C_06</PosGroup>
+			<Sequence>situ\story\J2A_LEDA\JNK00\JNK00_J2A_LEDA_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="628">
+			<Code>J2A_LEDA</Code>
+			<Setting>JNK_F03</Setting>
+			<PosGroup>mob_C_06</PosGroup>
+			<Sequence>situ\story\J2A_LEDA\JNK00\JNK00_J2A_LEDA_06.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="553">
+			<Code>J2A_LEDA</Code>
+			<Setting>JNK_F03</Setting>
+			<PosGroup>mob_C_06</PosGroup>
+			<Sequence>situ\story\J2A_LEDA\JNK00\JNK00_J2A_LEDA_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="5">
+			<Code>J2A_LEDA</Code>
+			<Setting>JNK_F03</Setting>
+			<PosGroup>mob_C_06</PosGroup>
+			<Sequence>situ\story\J2A_LEDA\JNK00\JNK00_J2A_LEDA_05.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="4">
+			<Code>J2A_LEDA</Code>
+			<Setting>JNK_F03</Setting>
+			<PosGroup>mob_C_06</PosGroup>
+			<Sequence>situ\story\J2A_LEDA\JNK00\JNK00_J2A_LEDA_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="8">
+			<Code>LXT_GARC</Code>
+			<Setting>mob\MOB_TOG_ROU04_MAL_600</Setting>
+			<PrisonTerm>1172050</PrisonTerm>
+			<PosGroup>mob_B2_09</PosGroup>
+			<Sequence>situ\story\LXT_GARC\JNK00\JNK00_LXT_GARC_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="717">
+			<Code>LXT_GARC</Code>
+			<Setting>mob\MOB_TOG_ROU04_MAL_600</Setting>
+			<PrisonTerm>1176080</PrisonTerm>
+			<PosGroup>mob_B2_09</PosGroup>
+			<Sequence>situ\story\LXT_GARC\JNK00\JNK00_LXT_GARC_07.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="714">
+			<Code>LXT_GARC</Code>
+			<Setting>mob\MOB_TOG_ROU04_MAL_600</Setting>
+			<PrisonTerm>1177280</PrisonTerm>
+			<PosGroup>mob_B2_09</PosGroup>
+			<Sequence>situ\story\LXT_GARC\JNK00\JNK00_LXT_GARC_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="628">
+			<Code>LXT_GARC</Code>
+			<Setting>mob\MOB_TOG_ROU04_MAL_600</Setting>
+			<PrisonTerm>1181270</PrisonTerm>
+			<PosGroup>mob_B2_09</PosGroup>
+			<Sequence>situ\story\LXT_GARC\JNK00\JNK00_LXT_GARC_06.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="553">
+			<Code>LXT_GARC</Code>
+			<Setting>mob\MOB_TOG_ROU04_MAL_600</Setting>
+			<PrisonTerm>1187220</PrisonTerm>
+			<PosGroup>mob_B2_09</PosGroup>
+			<Sequence>situ\story\LXT_GARC\JNK00\JNK00_LXT_GARC_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="5">
+			<Code>LXT_GARC</Code>
+			<Setting>mob\MOB_TOG_ROU04_MAL_600</Setting>
+			<PrisonTerm>1189240</PrisonTerm>
+			<PosGroup>mob_B2_09</PosGroup>
+			<Sequence>situ\story\LXT_GARC\JNK00\JNK00_LXT_GARC_05.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="4">
+			<Code>LXT_GARC</Code>
+			<Setting>mob\MOB_TOG_ROU04_MAL_600</Setting>
+			<PrisonTerm>1191730</PrisonTerm>
+			<PosGroup>mob_B2_09</PosGroup>
+			<Sequence>situ\story\LXT_GARC\JNK00\JNK00_LXT_GARC_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="297">
+			<Code>LXT_GARC</Code>
+			<Setting>mob\MOB_TOG_ROU04_MAL_600</Setting>
+			<PrisonTerm>1196910</PrisonTerm>
+			<PosGroup>mob_B2_09</PosGroup>
+			<Sequence>situ\story\LXT_GARC\JNK00\JNK00_LXT_GARC_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="292">
+			<Code>LXT_GARC</Code>
+			<Setting>mob\MOB_TOG_ROU04_MAL_600</Setting>
+			<PrisonTerm>1197070</PrisonTerm>
+			<PosGroup>mob_B2_09</PosGroup>
+			<Sequence>situ\story\LXT_GARC\JNK00\JNK00_LXT_GARC_04.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="1">
+			<Code>LXT_GARC</Code>
+			<Setting>mob\MOB_TOG_ROU04_MAL_600</Setting>
+			<PrisonTerm>1198000</PrisonTerm>
+			<PosGroup>mob_B2_09</PosGroup>
+			<Sequence>situ\story\LXT_GARC\JNK00\JNK00_LXT_GARC_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Android condition="1">
+			<Code>J2A_GCAC</Code>
+			<Setting>PrimefieldAndroidF01</Setting>
+			<PosGroup>accessory_B2_02</PosGroup>
+			<Sequence>situ\story\J2A_GCAC\JNK00\JNK00_J2A_GCAC_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Android>
+		<Human condition="8">
+			<Code>LXT_AMAL</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>881800</PrisonTerm>
+			<PosGroup>mob_B_08</PosGroup>
+			<Sequence>situ\story\LXT_AMAL\JNK00\JNK00_LXT_AMAL_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="717">
+			<Code>LXT_AMAL</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>882400</PrisonTerm>
+			<PosGroup>mob_B_08</PosGroup>
+			<Sequence>situ\story\LXT_AMAL\JNK00\JNK00_LXT_AMAL_07.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="714">
+			<Code>LXT_AMAL</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>883020</PrisonTerm>
+			<PosGroup>mob_B_08</PosGroup>
+			<Sequence>situ\story\LXT_AMAL\JNK00\JNK00_LXT_AMAL_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="628">
+			<Code>LXT_AMAL</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>883420</PrisonTerm>
+			<PosGroup>mob_B_08</PosGroup>
+			<Sequence>situ\story\LXT_AMAL\JNK00\JNK00_LXT_AMAL_06.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="553">
+			<Code>LXT_AMAL</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>884670</PrisonTerm>
+			<PosGroup>mob_B_08</PosGroup>
+			<Sequence>situ\story\LXT_AMAL\JNK00\JNK00_LXT_AMAL_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="5">
+			<Code>LXT_AMAL</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>885120</PrisonTerm>
+			<PosGroup>mob_B_08</PosGroup>
+			<Sequence>situ\story\LXT_AMAL\JNK00\JNK00_LXT_AMAL_05.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="4">
+			<Code>LXT_AMAL</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>887340</PrisonTerm>
+			<PosGroup>mob_B_08</PosGroup>
+			<Sequence>situ\story\LXT_AMAL\JNK00\JNK00_LXT_AMAL_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="297">
+			<Code>LXT_AMAL</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>888140</PrisonTerm>
+			<PosGroup>mob_B_08</PosGroup>
+			<Sequence>situ\story\LXT_AMAL\JNK00\JNK00_LXT_AMAL_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="292">
+			<Code>LXT_AMAL</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>888620</PrisonTerm>
+			<PosGroup>mob_B_08</PosGroup>
+			<Sequence>situ\story\LXT_AMAL\JNK00\JNK00_LXT_AMAL_04.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="1">
+			<Code>LXT_AMAL</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>889290</PrisonTerm>
+			<PosGroup>mob_B_08</PosGroup>
+			<Sequence>situ\story\LXT_AMAL\JNK00\JNK00_LXT_AMAL_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Android condition="1">
+			<Code>J2A_AMAC</Code>
+			<Setting>PrimefieldAndroidM01</Setting>
+			<PosGroup>accessory_B_01</PosGroup>
+			<Sequence>situ\story\J2A_AMAC\JNK00\JNK00_J2A_AMAC_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Android>
+		<Human condition="8">
+			<Code>J2T_SHIG</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_400</Setting>
+			<PrisonTerm>771390</PrisonTerm>
+			<PosGroup>mob_C_02</PosGroup>
+			<Sequence>situ\story\J2T_SHIG\JNK00\JNK00_J2T_SHIG_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="717">
+			<Code>J2T_SHIG</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_400</Setting>
+			<PrisonTerm>782420</PrisonTerm>
+			<PosGroup>mob_C_02</PosGroup>
+			<Sequence>situ\story\J2T_SHIG\JNK00\JNK00_J2T_SHIG_07.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="714">
+			<Code>J2T_SHIG</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_400</Setting>
+			<PrisonTerm>787150</PrisonTerm>
+			<PosGroup>mob_C_02</PosGroup>
+			<Sequence>situ\story\J2T_SHIG\JNK00\JNK00_J2T_SHIG_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="628">
+			<Code>J2T_SHIG</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_400</Setting>
+			<PrisonTerm>789160</PrisonTerm>
+			<PosGroup>mob_C_02</PosGroup>
+			<Sequence>situ\story\J2T_SHIG\JNK00\JNK00_J2T_SHIG_06.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="553">
+			<Code>J2T_SHIG</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_400</Setting>
+			<PrisonTerm>821190</PrisonTerm>
+			<PosGroup>mob_C_02</PosGroup>
+			<Sequence>situ\story\J2T_SHIG\JNK00\JNK00_J2T_SHIG_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="5">
+			<Code>J2T_SHIG</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_400</Setting>
+			<PrisonTerm>830870</PrisonTerm>
+			<PosGroup>mob_C_02</PosGroup>
+			<Sequence>situ\story\J2T_SHIG\JNK00\JNK00_J2T_SHIG_05.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="4">
+			<Code>J2T_SHIG</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_400</Setting>
+			<PrisonTerm>835120</PrisonTerm>
+			<PosGroup>mob_C_02</PosGroup>
+			<Sequence>situ\story\J2T_SHIG\JNK00\JNK00_J2T_SHIG_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="297">
+			<Code>J2T_SHIG</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_400</Setting>
+			<PrisonTerm>836410</PrisonTerm>
+			<PosGroup>mob_C_02</PosGroup>
+			<Sequence>situ\story\J2T_SHIG\JNK00\JNK00_J2T_SHIG_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="292">
+			<Code>J2T_SHIG</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_400</Setting>
+			<PrisonTerm>841510</PrisonTerm>
+			<PosGroup>mob_C_02</PosGroup>
+			<Sequence>situ\story\J2T_SHIG\JNK00\JNK00_J2T_SHIG_04.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="1">
+			<Code>J2T_SHIG</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_400</Setting>
+			<PrisonTerm>843410</PrisonTerm>
+			<PosGroup>mob_C_02</PosGroup>
+			<Sequence>situ\story\J2T_SHIG\JNK00\JNK00_J2T_SHIG_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="8">
+			<Code>J2T_RAIS</Code>
+			<Setting>mob\MOB_TOG_ROU03_FEM_500</Setting>
+			<PrisonTerm>952710</PrisonTerm>
+			<PosGroup>mob_B_04</PosGroup>
+			<Sequence>situ\story\J2T_RAIS\JNK00\JNK00_J2T_RAIS_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="717">
+			<Code>J2T_RAIS</Code>
+			<Setting>mob\MOB_TOG_ROU03_FEM_500</Setting>
+			<PrisonTerm>955440</PrisonTerm>
+			<PosGroup>mob_B_04</PosGroup>
+			<Sequence>situ\story\J2T_RAIS\JNK00\JNK00_J2T_RAIS_07.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="714">
+			<Code>J2T_RAIS</Code>
+			<Setting>mob\MOB_TOG_ROU03_FEM_500</Setting>
+			<PrisonTerm>963240</PrisonTerm>
+			<PosGroup>mob_B_04</PosGroup>
+			<Sequence>situ\story\J2T_RAIS\JNK00\JNK00_J2T_RAIS_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="628">
+			<Code>J2T_RAIS</Code>
+			<Setting>mob\MOB_TOG_ROU03_FEM_500</Setting>
+			<PrisonTerm>967340</PrisonTerm>
+			<PosGroup>mob_B_04</PosGroup>
+			<Sequence>situ\story\J2T_RAIS\JNK00\JNK00_J2T_RAIS_06.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="553">
+			<Code>J2T_RAIS</Code>
+			<Setting>mob\MOB_TOG_ROU03_FEM_500</Setting>
+			<PrisonTerm>974120</PrisonTerm>
+			<PosGroup>mob_B_04</PosGroup>
+			<Sequence>situ\story\J2T_RAIS\JNK00\JNK00_J2T_RAIS_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="5">
+			<Code>J2T_RAIS</Code>
+			<Setting>mob\MOB_TOG_ROU03_FEM_500</Setting>
+			<PrisonTerm>977060</PrisonTerm>
+			<PosGroup>mob_B_04</PosGroup>
+			<Sequence>situ\story\J2T_RAIS\JNK00\JNK00_J2T_RAIS_05.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="4">
+			<Code>J2T_RAIS</Code>
+			<Setting>mob\MOB_TOG_ROU03_FEM_500</Setting>
+			<PrisonTerm>985740</PrisonTerm>
+			<PosGroup>mob_B_04</PosGroup>
+			<Sequence>situ\story\J2T_RAIS\JNK00\JNK00_J2T_RAIS_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="297">
+			<Code>J2T_RAIS</Code>
+			<Setting>mob\MOB_TOG_ROU03_FEM_500</Setting>
+			<PrisonTerm>991360</PrisonTerm>
+			<PosGroup>mob_B_04</PosGroup>
+			<Sequence>situ\story\J2T_RAIS\JNK00\JNK00_J2T_RAIS_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="292">
+			<Code>J2T_RAIS</Code>
+			<Setting>mob\MOB_TOG_ROU03_FEM_500</Setting>
+			<PrisonTerm>991810</PrisonTerm>
+			<PosGroup>mob_B_04</PosGroup>
+			<Sequence>situ\story\J2T_RAIS\JNK00\JNK00_J2T_RAIS_04.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="1">
+			<Code>J2T_RAIS</Code>
+			<Setting>mob\MOB_TOG_ROU03_FEM_500</Setting>
+			<PrisonTerm>996420</PrisonTerm>
+			<PosGroup>mob_B_04</PosGroup>
+			<Sequence>situ\story\J2T_RAIS\JNK00\JNK00_J2T_RAIS_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Android condition="1">
+			<Code>J2A_RSAC</Code>
+			<Setting>PrimefieldAndroidM01</Setting>
+			<PosGroup>accessory_B_00</PosGroup>
+			<Sequence>situ\story\J2A_RSAC\JNK00\JNK00_J2A_RSAC_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Android>
+		<Human condition="8">
+			<Code>J2F_LAWR</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C2_08</PosGroup>
+			<Sequence>situ\story\J2F_LAWR\JNK00\JNK00_J2F_LAWR_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="717">
+			<Code>J2F_LAWR</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C2_08</PosGroup>
+			<Sequence>situ\story\J2F_LAWR\JNK00\JNK00_J2F_LAWR_07.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="714">
+			<Code>J2F_LAWR</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C2_08</PosGroup>
+			<Sequence>situ\story\J2F_LAWR\JNK00\JNK00_J2F_LAWR_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="628">
+			<Code>J2F_LAWR</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C2_08</PosGroup>
+			<Sequence>situ\story\J2F_LAWR\JNK00\JNK00_J2F_LAWR_06.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="553">
+			<Code>J2F_LAWR</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C2_08</PosGroup>
+			<Sequence>situ\story\J2F_LAWR\JNK00\JNK00_J2F_LAWR_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="5">
+			<Code>J2F_LAWR</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C2_08</PosGroup>
+			<Sequence>situ\story\J2F_LAWR\JNK00\JNK00_J2F_LAWR_05.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="4">
+			<Code>J2F_LAWR</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C2_08</PosGroup>
+			<Sequence>situ\story\J2F_LAWR\JNK00\JNK00_J2F_LAWR_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="297">
+			<Code>J2F_LAWR</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C2_08</PosGroup>
+			<Sequence>situ\story\J2F_LAWR\JNK00\JNK00_J2F_LAWR_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="292">
+			<Code>J2F_LAWR</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C2_08</PosGroup>
+			<Sequence>situ\story\J2F_LAWR\JNK00\JNK00_J2F_LAWR_04.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="1">
+			<Code>J2F_LAWR</Code>
+			<Setting>Mafia_F01</Setting>
+			<PosGroup>mob_C2_08</PosGroup>
+			<Sequence>situ\story\J2F_LAWR\JNK00\JNK00_J2F_LAWR_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="8">
+			<Code>J2F_DARR</Code>
+			<Setting>Mafia_M01</Setting>
+			<PosGroup>mob_C2_07</PosGroup>
+			<Sequence>situ\story\J2F_DARR\JNK00\JNK00_J2F_DARR_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="717">
+			<Code>J2F_DARR</Code>
+			<Setting>Mafia_M01</Setting>
+			<PosGroup>mob_C2_07</PosGroup>
+			<Sequence>situ\story\J2F_DARR\JNK00\JNK00_J2F_DARR_07.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="714">
+			<Code>J2F_DARR</Code>
+			<Setting>Mafia_M01</Setting>
+			<PosGroup>mob_C2_07</PosGroup>
+			<Sequence>situ\story\J2F_DARR\JNK00\JNK00_J2F_DARR_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="628">
+			<Code>J2F_DARR</Code>
+			<Setting>Mafia_M01</Setting>
+			<PosGroup>mob_C2_07</PosGroup>
+			<Sequence>situ\story\J2F_DARR\JNK00\JNK00_J2F_DARR_06.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="553">
+			<Code>J2F_DARR</Code>
+			<Setting>Mafia_M01</Setting>
+			<PosGroup>mob_C2_07</PosGroup>
+			<Sequence>situ\story\J2F_DARR\JNK00\JNK00_J2F_DARR_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="5">
+			<Code>J2F_DARR</Code>
+			<Setting>Mafia_M01</Setting>
+			<PosGroup>mob_C2_07</PosGroup>
+			<Sequence>situ\story\J2F_DARR\JNK00\JNK00_J2F_DARR_05.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="4">
+			<Code>J2F_DARR</Code>
+			<Setting>Mafia_M01</Setting>
+			<PosGroup>mob_C2_07</PosGroup>
+			<Sequence>situ\story\J2F_DARR\JNK00\JNK00_J2F_DARR_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="297">
+			<Code>J2F_DARR</Code>
+			<Setting>Mafia_M01</Setting>
+			<PosGroup>mob_C2_07</PosGroup>
+			<Sequence>situ\story\J2F_DARR\JNK00\JNK00_J2F_DARR_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="292">
+			<Code>J2F_DARR</Code>
+			<Setting>Mafia_M01</Setting>
+			<PosGroup>mob_C2_07</PosGroup>
+			<Sequence>situ\story\J2F_DARR\JNK00\JNK00_J2F_DARR_04.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="1">
+			<Code>J2F_DARR</Code>
+			<Setting>Mafia_M01</Setting>
+			<PosGroup>mob_C2_07</PosGroup>
+			<Sequence>situ\story\J2F_DARR\JNK00\JNK00_J2F_DARR_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="8">
+			<Code>J2T_KAMI</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_300</Setting>
+			<PrisonTerm>801650</PrisonTerm>
+			<PosGroup>mob_C2_09</PosGroup>
+			<Sequence>situ\story\J2T_KAMI\JNK00\JNK00_J2T_KAMI_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="717">
+			<Code>J2T_KAMI</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_300</Setting>
+			<PrisonTerm>802160</PrisonTerm>
+			<PosGroup>mob_C2_09</PosGroup>
+			<Sequence>situ\story\J2T_KAMI\JNK00\JNK00_J2T_KAMI_07.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="714">
+			<Code>J2T_KAMI</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_300</Setting>
+			<PrisonTerm>807120</PrisonTerm>
+			<PosGroup>mob_C2_09</PosGroup>
+			<Sequence>situ\story\J2T_KAMI\JNK00\JNK00_J2T_KAMI_03.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="628">
+			<Code>J2T_KAMI</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_300</Setting>
+			<PrisonTerm>811640</PrisonTerm>
+			<PosGroup>mob_C2_09</PosGroup>
+			<Sequence>situ\story\J2T_KAMI\JNK00\JNK00_J2T_KAMI_06.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="553">
+			<Code>J2T_KAMI</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_300</Setting>
+			<PrisonTerm>820490</PrisonTerm>
+			<PosGroup>mob_C2_09</PosGroup>
+			<Sequence>situ\story\J2T_KAMI\JNK00\JNK00_J2T_KAMI_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="5">
+			<Code>J2T_KAMI</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_300</Setting>
+			<PrisonTerm>824080</PrisonTerm>
+			<PosGroup>mob_C2_09</PosGroup>
+			<Sequence>situ\story\J2T_KAMI\JNK00\JNK00_J2T_KAMI_05.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="4">
+			<Code>J2T_KAMI</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_300</Setting>
+			<PrisonTerm>830250</PrisonTerm>
+			<PosGroup>mob_C2_09</PosGroup>
+			<Sequence>situ\story\J2T_KAMI\JNK00\JNK00_J2T_KAMI_02.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="297">
+			<Code>J2T_KAMI</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_300</Setting>
+			<PrisonTerm>833990</PrisonTerm>
+			<PosGroup>mob_C2_09</PosGroup>
+			<Sequence>situ\story\J2T_KAMI\JNK00\JNK00_J2T_KAMI_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="292">
+			<Code>J2T_KAMI</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_300</Setting>
+			<PrisonTerm>836240</PrisonTerm>
+			<PosGroup>mob_C2_09</PosGroup>
+			<Sequence>situ\story\J2T_KAMI\JNK00\JNK00_J2T_KAMI_04.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Human condition="1">
+			<Code>J2T_KAMI</Code>
+			<Setting>mob\MOB_TOG_ROU07_MAL_300</Setting>
+			<PrisonTerm>841360</PrisonTerm>
+			<PosGroup>mob_C2_09</PosGroup>
+			<Sequence>situ\story\J2T_KAMI\JNK00\JNK00_J2T_KAMI_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Human>
+		<Android condition="1">
+			<Code>J2A_KMAC</Code>
+			<Setting>PrimefieldAndroidF01</Setting>
+			<PosGroup>accessory_C2_00</PosGroup>
+			<Sequence>situ\story\J2A_KMAC\JNK00\JNK00_J2A_KMAC_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Android>
+		<Human condition="8">
+			<Code>LXT_LORE</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>2184370</PrisonTerm>
+			<PosGroup>mob_A_08</PosGroup>
+			<Sequence>situ\story\LXT_LORE\JNK00\JNK00_LXT_LORE_03.Lua</Sequence>
+		</Human>
+		<Human condition="717">
+			<Code>LXT_LORE</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>2185570</PrisonTerm>
+			<PosGroup>mob_A_08</PosGroup>
+			<Sequence>situ\story\LXT_LORE\JNK00\JNK00_LXT_LORE_07.Lua</Sequence>
+		</Human>
+		<Human condition="714">
+			<Code>LXT_LORE</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>2186680</PrisonTerm>
+			<PosGroup>mob_A_08</PosGroup>
+			<Sequence>situ\story\LXT_LORE\JNK00\JNK00_LXT_LORE_03.Lua</Sequence>
+		</Human>
+		<Human condition="628">
+			<Code>LXT_LORE</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>2187360</PrisonTerm>
+			<PosGroup>mob_A_08</PosGroup>
+			<Sequence>situ\story\LXT_LORE\JNK00\JNK00_LXT_LORE_06.Lua</Sequence>
+		</Human>
+		<Human condition="553">
+			<Code>LXT_LORE</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>2187850</PrisonTerm>
+			<PosGroup>mob_A_08</PosGroup>
+			<Sequence>situ\story\LXT_LORE\JNK00\JNK00_LXT_LORE_02.Lua</Sequence>
+		</Human>
+		<Human condition="5">
+			<Code>LXT_LORE</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>2188720</PrisonTerm>
+			<PosGroup>mob_A_08</PosGroup>
+			<Sequence>situ\story\LXT_LORE\JNK00\JNK00_LXT_LORE_05.Lua</Sequence>
+		</Human>
+		<Human condition="4">
+			<Code>LXT_LORE</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>2189960</PrisonTerm>
+			<PosGroup>mob_A_08</PosGroup>
+			<Sequence>situ\story\LXT_LORE\JNK00\JNK00_LXT_LORE_02.Lua</Sequence>
+		</Human>
+		<Human condition="297">
+			<Code>LXT_LORE</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>2191370</PrisonTerm>
+			<PosGroup>mob_A_08</PosGroup>
+			<Sequence>situ\story\LXT_LORE\JNK00\JNK00_LXT_LORE_01.Lua</Sequence>
+		</Human>
+		<Human condition="292">
+			<Code>LXT_LORE</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>2191510</PrisonTerm>
+			<PosGroup>mob_A_08</PosGroup>
+			<Sequence>situ\story\LXT_LORE\JNK00\JNK00_LXT_LORE_04.Lua</Sequence>
+		</Human>
+		<Human condition="1">
+			<Code>LXT_LORE</Code>
+			<Setting>mob\MOB_TOG_ROU08_FEM_400</Setting>
+			<PrisonTerm>2192500</PrisonTerm>
+			<PosGroup>mob_A_08</PosGroup>
+			<Sequence>situ\story\LXT_LORE\JNK00\JNK00_LXT_LORE_01.Lua</Sequence>
+		</Human>
+		<Android condition="1">
+			<Code>J2A_LRAC</Code>
+			<Setting>PrimefieldAndroidM01</Setting>
+			<PosGroup>accessory_A_01</PosGroup>
+			<Sequence>situ\story\J2A_LRAC\JNK00\JNK00_J2A_LRAC_01.Lua</Sequence>
+			<GeneralUseFlag>3</GeneralUseFlag>
+		</Android>
+		<Human condition="292">
+			<Code>LXT_AMAD</Code>
+		</Human>
+		<Human condition="1">
+			<Code>LXT_AMAD</Code>
+			<Setting>mob\MOB_TOG_ROU04_MAL_400</Setting>
+			<PrisonTerm>1203300</PrisonTerm>
+			<PosGroup>mob_A_01</PosGroup>
+			<Sequence>situ\story\LXT_AMAD\JNK00\JNK00_LXT_AMAD_01.Lua</Sequence>
+		</Human>
+		<Human condition="0">
+			<Code>Accessory</Code>
+		</Human>
+		<Human condition="804">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="803">
+			<Code>BEA</Code>
+			<Setting>Beatrice2</Setting>
+			<PrisonTerm>890280</PrisonTerm>
+			<PosGroup>human360_pos</PosGroup>
+		</Human>
+		<Human condition="801">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>957875</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\JNK00\bil04.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_08_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_08_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_08_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_08_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_08_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_040.lua</Sequence>
+		</Human>
+		<Human condition="745">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>957875</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_07_100.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_110.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_030.lua</Sequence>
+		</Human>
+		<Human condition="735">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>957875</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_07_060.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_070.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_080.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_090.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_030.lua</Sequence>
+		</Human>
+		<Human condition="733">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>957875</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_07_060.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_070.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_080.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_090.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_030.lua</Sequence>
+		</Human>
+		<Human condition="732">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>957875</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_07_060.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_070.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_080.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_090.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_030.lua</Sequence>
+		</Human>
+		<Human condition="711">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>957875</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_07_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="710">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>957875</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_07_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="705">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>957875</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_07_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="702">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>957875</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_07_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="701">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>957875</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_07_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_07_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="7">
+			<Code>UWE</Code>
+		</Human>
+		<Human condition="7">
+			<Code>SIZ</Code>
+		</Human>
+		<Human condition="7">
+			<Code>SER</Code>
+		</Human>
+		<Human condition="7">
+			<Code>NIN</Code>
+		</Human>
+		<Human condition="7">
+			<Code>NAT</Code>
+		</Human>
+		<Human condition="7">
+			<Code>MAT</Code>
+		</Human>
+		<Human condition="7">
+			<Code>MAR</Code>
+		</Human>
+		<Human condition="7">
+			<Code>KAI</Code>
+		</Human>
+		<Human condition="7">
+			<Code>ELF</Code>
+		</Human>
+		<Human condition="7">
+			<Code>CAR</Code>
+		</Human>
+		<Human condition="7">
+			<Code>BIL</Code>
+		</Human>
+		<Human condition="7">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="7">
+			<Code>ACC01</Code>
+		</Human>
+		<Human condition="647">
+			<Code>ACC01</Code>
+		</Human>
+		<Human condition="647">
+			<Code>NAT</Code>
+		</Human>
+		<Human condition="647">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>967075</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_06_190.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_180.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_160.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_090.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_100.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_110.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_120.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_030.lua</Sequence>
+		</Human>
+		<Human condition="646">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>967075</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_06_170.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_180.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_160.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_090.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_100.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_110.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_120.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_030.lua</Sequence>
+		</Human>
+		<Human condition="645">
+			<Code>ACC01</Code>
+			<Setting>Policeman</Setting>
+			<PosGroup>human49_pos</PosGroup>
+		</Human>
+		<Human condition="645">
+			<Code>NAT</Code>
+			<Setting>Natalia</Setting>
+			<PosGroup>human49_pos</PosGroup>
+		</Human>
+		<Human condition="644">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>967075</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_06_160.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_090.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_100.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_110.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_120.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="641">
+			<Code>NIN</Code>
+		</Human>
+		<Human condition="641">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="640">
+			<Code>NIN</Code>
+			<Setting>Nina</Setting>
+			<PrisonTerm>870035</PrisonTerm>
+			<PosGroup>human331_pos</PosGroup>
+			<Sequence>situ\story\NIN\A_NIN_06_130.lua</Sequence>
+			<Sequence>situ\story\NIN\A_NIN_06_140.lua</Sequence>
+		</Human>
+		<Human condition="640">
+			<Code>BEA</Code>
+			<Setting>Beatrice2</Setting>
+			<PrisonTerm>908680</PrisonTerm>
+			<PosGroup>human330_pos</PosGroup>
+			<Sequence>situ\story\BEA\A_BEA_06_090.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_06_100.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_06_060.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_06_070.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_06_110.lua</Sequence>
+		</Human>
+		<Human condition="642">
+			<Code>MAT</Code>
+		</Human>
+		<Human condition="641">
+			<Code>MAT</Code>
+			<Setting>Mattias</Setting>
+			<PrisonTerm>951460</PrisonTerm>
+			<PosGroup>human180_pos</PosGroup>
+			<Sequence>situ\story\JNK00\mat04.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_06_190.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_06_160.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_06_170.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_06_240.lua</Sequence>
+		</Human>
+		<Human condition="635">
+			<Code>MAT</Code>
+			<Setting>Mattias</Setting>
+			<PrisonTerm>951460</PrisonTerm>
+			<PosGroup>human180_pos</PosGroup>
+			<Sequence>situ\story\JNK00\mat04.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_06_190.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_06_160.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_06_170.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_06_230.lua</Sequence>
+		</Human>
+		<Human condition="632">
+			<Code>NIN</Code>
+			<Setting>Nina</Setting>
+			<PrisonTerm>870035</PrisonTerm>
+			<PosGroup>human331_pos</PosGroup>
+			<Sequence>situ\story\JNK00\bea04.lua</Sequence>
+			<Sequence>situ\story\NIN\A_NIN_06_130.lua</Sequence>
+			<Sequence>situ\story\NIN\A_NIN_06_140.lua</Sequence>
+		</Human>
+		<Human condition="632">
+			<Code>BEA</Code>
+			<Setting>Beatrice2</Setting>
+			<PrisonTerm>908680</PrisonTerm>
+			<PosGroup>human330_pos</PosGroup>
+			<Sequence>situ\story\JNK00\bea04.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_06_090.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_06_100.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_06_060.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_06_070.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_06_110.lua</Sequence>
+		</Human>
+		<Human condition="632">
+			<Code>MAT</Code>
+			<Setting>Mattias</Setting>
+			<PrisonTerm>951460</PrisonTerm>
+			<PosGroup>human180_pos</PosGroup>
+			<Sequence>situ\story\JNK00\mat04.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_06_190.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_06_160.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_06_170.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_06_220.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_06_230.lua</Sequence>
+		</Human>
+		<Human condition="630">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>967075</PrisonTerm>
+			<PosGroup>human177_pos</PosGroup>
+			<Sequence>situ\story\JNK00\mat04.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_130.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_140.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_150.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_030.lua</Sequence>
+		</Human>
+		<Human condition="630">
+			<Code>MAT</Code>
+			<Setting>Mattias</Setting>
+			<PrisonTerm>951460</PrisonTerm>
+			<PosGroup>human180_pos</PosGroup>
+			<Sequence>situ\story\JNK00\mat04.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_06_190.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_06_160.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_06_170.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_06_210.lua</Sequence>
+		</Human>
+		<Human condition="628">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>967075</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_06_080.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_090.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_100.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_110.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_120.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_030.lua</Sequence>
+		</Human>
+		<Human condition="624">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>967075</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_06_080.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_090.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_100.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_110.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_120.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_030.lua</Sequence>
+		</Human>
+		<Human condition="619">
+			<Code>CAR</Code>
+		</Human>
+		<Human condition="617">
+			<Code>CAR</Code>
+			<Setting>Carlos</Setting>
+			<PrisonTerm>793240</PrisonTerm>
+			<PosGroup>human04_pos</PosGroup>
+			<Sequence>situ\story\JNK00\car01.lua</Sequence>
+			<Sequence>situ\story\CAR\A_CAR_06_100.lua</Sequence>
+			<Sequence>situ\story\CAR\A_CAR_06_110.lua</Sequence>
+			<Sequence>situ\story\CAR\A_CAR_06_090.lua</Sequence>
+		</Human>
+		<Human condition="617">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>967075</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_06_070.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_020.lua</Sequence>
+		</Human>
+		<Human condition="613">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>967075</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_06_060.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="612">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>967075</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_06_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="607">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>967075</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_06_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="606">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>967075</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_06_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="605">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="605">
+			<Code>CRI52</Code>
+		</Human>
+		<Human condition="604">
+			<Code>BEA</Code>
+			<Setting>Beatrice2</Setting>
+			<PrisonTerm>908680</PrisonTerm>
+			<PosGroup>human310_pos</PosGroup>
+		</Human>
+		<Human condition="604">
+			<Code>CRI52</Code>
+			<Setting>Remigio</Setting>
+			<PrisonTerm>880901</PrisonTerm>
+			<PosGroup>human140_pos</PosGroup>
+			<Sequence>situ\story\JNK00\oth09.lua</Sequence>
+		</Human>
+		<Human condition="604">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>967075</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_06_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="603">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>967075</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_06_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="602">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="602">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>967075</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_06_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="601">
+			<Code>BEA</Code>
+			<Setting>Beatrice2</Setting>
+			<PrisonTerm>908680</PrisonTerm>
+			<PosGroup>human290_pos</PosGroup>
+			<Sequence>situ\story\JNK00\bea03.lua</Sequence>
+		</Human>
+		<Human condition="601">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>967075</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_06_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_06_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="6">
+			<Code>NIN</Code>
+		</Human>
+		<Human condition="6">
+			<Code>NAT</Code>
+		</Human>
+		<Human condition="6">
+			<Code>MAT</Code>
+		</Human>
+		<Human condition="6">
+			<Code>CRI52</Code>
+		</Human>
+		<Human condition="6">
+			<Code>CAR</Code>
+		</Human>
+		<Human condition="6">
+			<Code>BIL</Code>
+		</Human>
+		<Human condition="6">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="6">
+			<Code>ACC04</Code>
+		</Human>
+		<Human condition="6">
+			<Code>ACC03</Code>
+		</Human>
+		<Human condition="6">
+			<Code>ACC02</Code>
+		</Human>
+		<Human condition="6">
+			<Code>ACC01</Code>
+		</Human>
+		<Human condition="575">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>975475</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_05_150.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_100.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_110.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_120.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_130.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="572">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>975475</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_05_150.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_100.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_110.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_120.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_130.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="570">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>975475</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_05_140.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_150.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_100.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_110.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_120.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_130.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="563">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>975475</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_05_100.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_110.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_120.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_130.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="562">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>975475</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_05_100.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_110.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_120.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_130.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="555">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>975475</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_05_100.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_110.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_120.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_130.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="548">
+			<Code>CAR</Code>
+		</Human>
+		<Human condition="548">
+			<Code>UWE</Code>
+		</Human>
+		<Human condition="547">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>975475</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_05_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_060.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_070.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_080.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_090.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_030.lua</Sequence>
+		</Human>
+		<Human condition="545">
+			<Code>CAR</Code>
+			<Setting>Carlos</Setting>
+			<PrisonTerm>793240</PrisonTerm>
+			<PosGroup>human04_pos</PosGroup>
+			<Sequence>situ\story\JNK00\uwe03.lua</Sequence>
+			<Sequence>situ\story\CAR\A_CAR_05_150.lua</Sequence>
+			<Sequence>situ\story\CAR\A_CAR_05_140.lua</Sequence>
+			<Sequence>situ\story\CAR\A_CAR_05_160.lua</Sequence>
+		</Human>
+		<Human condition="545">
+			<Code>UWE</Code>
+			<Setting>Uwe</Setting>
+			<PrisonTerm>758995</PrisonTerm>
+			<PosGroup>human03_pos</PosGroup>
+			<Sequence>situ\story\JNK00\uwe03.lua</Sequence>
+			<Sequence>situ\story\UWE\A_UWE_05_120.lua</Sequence>
+			<Sequence>situ\story\UWE\A_UWE_05_110.lua</Sequence>
+			<Sequence>situ\story\UWE\A_UWE_05_100.lua</Sequence>
+		</Human>
+		<Human condition="545">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="545">
+			<Code>ELF</Code>
+		</Human>
+		<Human condition="545">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>975475</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_05_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_060.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_070.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_080.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_090.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_030.lua</Sequence>
+		</Human>
+		<Human condition="540">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="539">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="533">
+			<Code>BEA</Code>
+			<Setting>Beatrice2</Setting>
+			<PrisonTerm>925480</PrisonTerm>
+			<PosGroup>human167_pos</PosGroup>
+			<Sequence>situ\story\JNK00\elf05.lua</Sequence>
+		</Human>
+		<Human condition="533">
+			<Code>ELF</Code>
+			<Setting>Elfriede</Setting>
+			<PrisonTerm>839450</PrisonTerm>
+			<PosGroup>human330_pos</PosGroup>
+			<Sequence>situ\story\JNK00\elf05.lua</Sequence>
+			<Sequence>situ\story\ELF\A_ELF_05_050.lua</Sequence>
+			<Sequence>situ\story\ELF\A_ELF_05_070.lua</Sequence>
+		</Human>
+		<Human condition="532">
+			<Code>BEA</Code>
+			<Setting>Beatrice2</Setting>
+			<PrisonTerm>925480</PrisonTerm>
+			<PosGroup>human167_pos</PosGroup>
+			<Sequence>situ\story\JNK00\elf04.lua</Sequence>
+		</Human>
+		<Human condition="532">
+			<Code>ELF</Code>
+			<Setting>Elfriede</Setting>
+			<PrisonTerm>839450</PrisonTerm>
+			<PosGroup>human330_pos</PosGroup>
+			<Sequence>situ\story\JNK00\elf04.lua</Sequence>
+			<Sequence>situ\story\ELF\A_ELF_05_060.lua</Sequence>
+			<Sequence>situ\story\ELF\A_ELF_05_070.lua</Sequence>
+		</Human>
+		<Human condition="545">
+			<Code>SIZ</Code>
+		</Human>
+		<Human condition="545">
+			<Code>NIN</Code>
+		</Human>
+		<Human condition="545">
+			<Code>MAR</Code>
+		</Human>
+		<Human condition="545">
+			<Code>SER</Code>
+		</Human>
+		<Human condition="545">
+			<Code>KAI</Code>
+		</Human>
+		<Human condition="525">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="525">
+			<Code>ELF</Code>
+		</Human>
+		<Human condition="524">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="524">
+			<Code>ELF</Code>
+		</Human>
+		<Human condition="519">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>975475</PrisonTerm>
+			<PosGroup>human285_pos</PosGroup>
+			<Sequence>situ\story\JNK00\kai01.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_030.lua</Sequence>
+		</Human>
+		<Human condition="519">
+			<Code>SIZ</Code>
+			<Setting>Sizuka</Setting>
+			<PrisonTerm>928725</PrisonTerm>
+			<PosGroup>human281_pos</PosGroup>
+			<Sequence>situ\story\JNK00\mar02.lua</Sequence>
+			<Sequence>situ\story\SIZ\A_SIZ_05_060.lua</Sequence>
+			<Sequence>situ\story\SIZ\A_SIZ_00_030.lua</Sequence>
+		</Human>
+		<Human condition="519">
+			<Code>NIN</Code>
+			<Setting>Nina</Setting>
+			<PrisonTerm>878435</PrisonTerm>
+			<PosGroup>human14_pos</PosGroup>
+			<Sequence>situ\story\JNK00\mar02.lua</Sequence>
+			<Sequence>situ\story\NIN\A_NIN_05_080.lua</Sequence>
+		</Human>
+		<Human condition="519">
+			<Code>MAR</Code>
+			<Setting>Marie</Setting>
+			<PrisonTerm>941285</PrisonTerm>
+			<PosGroup>human280_pos</PosGroup>
+			<Sequence>situ\story\JNK00\mar02.lua</Sequence>
+			<Sequence>situ\story\MAR\A_MAR_05_020.lua</Sequence>
+		</Human>
+		<Human condition="519">
+			<Code>SER</Code>
+			<Setting>Serge</Setting>
+			<PrisonTerm>863300</PrisonTerm>
+			<PosGroup>human286_pos</PosGroup>
+			<Sequence>situ\story\JNK00\kai01.lua</Sequence>
+			<Sequence>situ\story\SER\A_SER_05_020.lua</Sequence>
+		</Human>
+		<Human condition="519">
+			<Code>KAI</Code>
+			<Setting>Kai</Setting>
+			<PrisonTerm>849690</PrisonTerm>
+			<PosGroup>human287_pos</PosGroup>
+			<Sequence>situ\story\JNK00\kai01.lua</Sequence>
+			<Sequence>situ\story\KAI\A_KAI_05_060.lua</Sequence>
+		</Human>
+		<Human condition="518">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>975475</PrisonTerm>
+			<PosGroup>human285_pos</PosGroup>
+			<Sequence>situ\story\JNK00\kai00.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_05_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_030.lua</Sequence>
+		</Human>
+		<Human condition="518">
+			<Code>SIZ</Code>
+			<Setting>Sizuka</Setting>
+			<PrisonTerm>928725</PrisonTerm>
+			<PosGroup>human281_pos</PosGroup>
+			<Sequence>situ\story\JNK00\mar01.lua</Sequence>
+			<Sequence>situ\story\SIZ\A_SIZ_05_070.lua</Sequence>
+			<Sequence>situ\story\SIZ\A_SIZ_00_030.lua</Sequence>
+		</Human>
+		<Human condition="518">
+			<Code>NIN</Code>
+			<Setting>Nina</Setting>
+			<PrisonTerm>878435</PrisonTerm>
+			<PosGroup>human14_pos</PosGroup>
+			<Sequence>situ\story\JNK00\mar01.lua</Sequence>
+			<Sequence>situ\story\NIN\A_NIN_05_090.lua</Sequence>
+		</Human>
+		<Human condition="518">
+			<Code>MAR</Code>
+			<Setting>Marie</Setting>
+			<PrisonTerm>941285</PrisonTerm>
+			<PosGroup>human280_pos</PosGroup>
+			<Sequence>situ\story\JNK00\mar01.lua</Sequence>
+			<Sequence>situ\story\MAR\A_MAR_05_030.lua</Sequence>
+		</Human>
+		<Human condition="518">
+			<Code>SER</Code>
+			<Setting>Serge</Setting>
+			<PrisonTerm>863300</PrisonTerm>
+			<PosGroup>human286_pos</PosGroup>
+			<Sequence>situ\story\JNK00\kai00.lua</Sequence>
+			<Sequence>situ\story\SER\A_SER_05_030.lua</Sequence>
+		</Human>
+		<Human condition="518">
+			<Code>KAI</Code>
+			<Setting>Kai</Setting>
+			<PrisonTerm>849690</PrisonTerm>
+			<PosGroup>human287_pos</PosGroup>
+			<Sequence>situ\story\JNK00\kai00.lua</Sequence>
+			<Sequence>situ\story\KAI\A_KAI_05_070.lua</Sequence>
+		</Human>
+		<Human condition="517">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>975475</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_05_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_030.lua</Sequence>
+		</Human>
+		<Human condition="517">
+			<Code>SIZ</Code>
+		</Human>
+		<Human condition="517">
+			<Code>NIN</Code>
+		</Human>
+		<Human condition="517">
+			<Code>SER</Code>
+		</Human>
+		<Human condition="517">
+			<Code>MAR</Code>
+		</Human>
+		<Human condition="517">
+			<Code>KAI</Code>
+		</Human>
+		<Human condition="517">
+			<Code>MAT</Code>
+		</Human>
+		<Human condition="510">
+			<Code>BIL</Code>
+		</Human>
+		<Human condition="510">
+			<Code>KAI</Code>
+		</Human>
+		<Human condition="509">
+			<Code>SER</Code>
+		</Human>
+		<Human condition="509">
+			<Code>MAR</Code>
+		</Human>
+		<Human condition="506">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="506">
+			<Code>ACC01</Code>
+		</Human>
+		<Human condition="506">
+			<Code>ELF</Code>
+		</Human>
+		<Human condition="505">
+			<Code>MAT</Code>
+			<Setting>Mattias</Setting>
+			<PrisonTerm>968260</PrisonTerm>
+			<PosGroup>human260_pos</PosGroup>
+			<Sequence>situ\story\MAT\A_MAT_05_060.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_05_070.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_05_080.lua</Sequence>
+		</Human>
+		<Human condition="505">
+			<Code>BEA</Code>
+			<Setting>Beatrice2</Setting>
+			<PrisonTerm>925480</PrisonTerm>
+			<PosGroup>Event025</PosGroup>
+		</Human>
+		<Human condition="505">
+			<Code>ACC01</Code>
+			<Setting>Policeman</Setting>
+			<PosGroup>human49_pos</PosGroup>
+			<Sequence>situ\story\JNK00\acc05.lua</Sequence>
+		</Human>
+		<Human condition="505">
+			<Code>ELF</Code>
+			<Setting>Elfriede</Setting>
+			<PrisonTerm>839450</PrisonTerm>
+			<PosGroup>Event026</PosGroup>
+		</Human>
+		<Human condition="504">
+			<Code>MAT</Code>
+			<Setting>Mattias</Setting>
+			<PrisonTerm>968260</PrisonTerm>
+			<PosGroup>human260_pos</PosGroup>
+			<Sequence>situ\story\MAT\A_MAT_05_040.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_05_020.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_05_050.lua</Sequence>
+		</Human>
+		<Human condition="503">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="502">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>975475</PrisonTerm>
+			<PosGroup>human266_pos</PosGroup>
+			<Sequence>situ\story\JNK00\bil03.lua</Sequence>
+		</Human>
+		<Human condition="502">
+			<Code>KAI</Code>
+			<Setting>Kai</Setting>
+			<PrisonTerm>849690</PrisonTerm>
+			<PosGroup>human267_pos</PosGroup>
+			<Sequence>situ\story\JNK00\bil03.lua</Sequence>
+		</Human>
+		<Human condition="502">
+			<Code>SER</Code>
+			<Setting>Serge</Setting>
+			<PrisonTerm>863300</PrisonTerm>
+			<PosGroup>human252_pos</PosGroup>
+			<Sequence>situ\story\JNK00\mar00.lua</Sequence>
+		</Human>
+		<Human condition="502">
+			<Code>MAR</Code>
+			<Setting>Marie</Setting>
+			<PrisonTerm>941285</PrisonTerm>
+			<PosGroup>human250_pos</PosGroup>
+			<Sequence>situ\story\JNK00\mar00.lua</Sequence>
+		</Human>
+		<Human condition="502">
+			<Code>BEA</Code>
+			<Setting>Beatrice2</Setting>
+			<PrisonTerm>925480</PrisonTerm>
+			<PosGroup>human49_pos</PosGroup>
+		</Human>
+		<Human condition="502">
+			<Code>MAT</Code>
+			<Setting>Mattias</Setting>
+			<PrisonTerm>968260</PrisonTerm>
+			<PosGroup>human260_pos</PosGroup>
+			<Sequence>situ\story\MAT\A_MAT_05_010.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_05_020.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_05_030.lua</Sequence>
+		</Human>
+		<Human condition="5">
+			<Code>NAT</Code>
+		</Human>
+		<Human condition="5">
+			<Code>NAT</Code>
+		</Human>
+		<Human condition="5">
+			<Code>MAT</Code>
+		</Human>
+		<Human condition="5">
+			<Code>M028</Code>
+		</Human>
+		<Human condition="5">
+			<Code>M027</Code>
+		</Human>
+		<Human condition="5">
+			<Code>M026</Code>
+		</Human>
+		<Human condition="5">
+			<Code>ELF</Code>
+		</Human>
+		<Human condition="5">
+			<Code>CRI52</Code>
+		</Human>
+		<Citizen condition="5">
+			<Code>CIV01</Code>
+		</Citizen>
+		<Human condition="5">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="444">
+			<Code>NAT</Code>
+			<Setting>Natalia</Setting>
+			<PosGroup>human01_pos</PosGroup>
+			<Sequence>situ\story\NAT\A_NAT_04_040.lua</Sequence>
+			<Sequence>situ\story\NAT\A_NAT_04_050.lua</Sequence>
+			<Sequence>situ\story\NAT\A_NAT_04_060.lua</Sequence>
+		</Human>
+		<Human condition="448">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>982850</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_04_120.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_020.lua</Sequence>
+		</Human>
+		<Human condition="444">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>982850</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_04_120.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_020.lua</Sequence>
+		</Human>
+		<Human condition="443">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>982850</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_04_110.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_070.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_080.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_090.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_100.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="442">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>982850</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_04_070.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_080.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_090.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_100.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="441">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>982850</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_04_070.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_080.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_090.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_100.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="440">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>982850</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_04_070.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_080.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_090.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_100.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="436">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>982850</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_04_060.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_070.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_080.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_090.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_100.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="435">
+			<Code>CRI52</Code>
+		</Human>
+		<Human condition="435">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="435">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>982850</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_04_060.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_070.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_080.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_090.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_100.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="437">
+			<Code>M028</Code>
+		</Human>
+		<Human condition="437">
+			<Code>M027</Code>
+		</Human>
+		<Human condition="437">
+			<Code>ELF</Code>
+		</Human>
+		<Human condition="432">
+			<Code>M028</Code>
+		</Human>
+		<Human condition="432">
+			<Code>M027</Code>
+		</Human>
+		<Human condition="434">
+			<Code>M028</Code>
+			<Setting>Antonio</Setting>
+			<PrisonTerm>1000219</PrisonTerm>
+			<PosGroup>human187c_pos</PosGroup>
+		</Human>
+		<Human condition="434">
+			<Code>M027</Code>
+			<Setting>Timo</Setting>
+			<PrisonTerm>1000009</PrisonTerm>
+			<PosGroup>human186a_pos</PosGroup>
+		</Human>
+		<Human condition="434">
+			<Code>ELF</Code>
+			<Setting>Elfriede</Setting>
+			<PrisonTerm>854200</PrisonTerm>
+			<PosGroup>human188c_pos</PosGroup>
+			<Sequence>situ\story\JNK00\elf02.lua</Sequence>
+			<Sequence>situ\story\ELF\A_ELF_04_080.lua</Sequence>
+			<Sequence>situ\story\ELF\A_ELF_04_040.lua</Sequence>
+			<Sequence>situ\story\ELF\A_ELF_04_050.lua</Sequence>
+			<Sequence>situ\story\ELF\A_ELF_04_060.lua</Sequence>
+			<Sequence>situ\story\ELF\A_ELF_04_070.lua</Sequence>
+		</Human>
+		<Human condition="434">
+			<Code>MAT</Code>
+		</Human>
+		<Human condition="434">
+			<Code>M026</Code>
+		</Human>
+		<Human condition="434">
+			<Code>CIV01</Code>
+		</Human>
+		<Human condition="428">
+			<Code>MAT</Code>
+		</Human>
+		<Human condition="428">
+			<Code>M026</Code>
+		</Human>
+		<Human condition="428">
+			<Code>CIV01</Code>
+		</Human>
+		<Human condition="427">
+			<Code>MAT</Code>
+		</Human>
+		<Human condition="427">
+			<Code>M026</Code>
+			<Setting>David</Setting>
+			<PosGroup>human117_pos</PosGroup>
+			<Sequence>situ\story\JNK00\oth08.lua</Sequence>
+		</Human>
+		<Citizen condition="427">
+			<Code>CIV01</Code>
+			<Setting>Boy02</Setting>
+			<PosGroup>human110_pos</PosGroup>
+			<Sequence>situ\story\JNK00\oth08.lua</Sequence>
+		</Citizen>
+		<Human condition="426">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>982850</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_04_060.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="423">
+			<Code>CRI52</Code>
+			<Setting>Remigio</Setting>
+			<PrisonTerm>899610</PrisonTerm>
+			<PosGroup>human140_pos</PosGroup>
+			<Sequence>situ\story\J2T_REMI\JNK00\JNK00_J2T_REMI_02.Lua</Sequence>
+		</Human>
+		<Human condition="423">
+			<Code>BEA</Code>
+			<Setting>Beatrice2</Setting>
+			<PrisonTerm>940230</PrisonTerm>
+			<PosGroup>human143_pos</PosGroup>
+			<Sequence>situ\story\JNK00\bea02.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_04_080.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_04_090.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_04_040.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_04_100.lua</Sequence>
+		</Human>
+		<Human condition="423">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>982850</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_04_060.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Extra condition="419">
+			<Code>M032</Code>
+		</Extra>
+		<Extra condition="419">
+			<Code>M031</Code>
+		</Extra>
+		<Extra condition="419">
+			<Code>M030</Code>
+		</Extra>
+		<Human condition="419">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="419">
+			<Code>ELF</Code>
+		</Human>
+		<Extra condition="430">
+			<Code>M032</Code>
+		</Extra>
+		<Extra condition="430">
+			<Code>M031</Code>
+		</Extra>
+		<Extra condition="430">
+			<Code>M030</Code>
+		</Extra>
+		<Human condition="430">
+			<Code>BEA</Code>
+			<Setting>Beatrice2</Setting>
+			<PrisonTerm>940230</PrisonTerm>
+			<PosGroup>human49_pos</PosGroup>
+			<Sequence>situ\story\BEA\A_BEA_04_060.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_04_070.lua</Sequence>
+		</Human>
+		<Human condition="430">
+			<Code>ELF</Code>
+		</Human>
+		<Human condition="417">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>982850</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_04_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Extra condition="417">
+			<Code>M032</Code>
+			<Setting>StreetChildF01</Setting>
+			<PosGroup>human188a_pos</PosGroup>
+			<Sequence>situ\story\JNK00\elf01.lua</Sequence>
+		</Extra>
+		<Extra condition="417">
+			<Code>M031</Code>
+			<Setting>StreetChildM01</Setting>
+			<PosGroup>human179a_pos</PosGroup>
+			<Sequence>situ\story\JNK00\elf01.lua</Sequence>
+		</Extra>
+		<Extra condition="417">
+			<Code>M030</Code>
+			<Setting>StreetChildF02</Setting>
+			<PosGroup>human178a_pos</PosGroup>
+			<Sequence>situ\story\JNK00\elf01.lua</Sequence>
+		</Extra>
+		<Human condition="417">
+			<Code>BEA</Code>
+			<Setting>Beatrice2</Setting>
+			<PrisonTerm>940230</PrisonTerm>
+			<PosGroup>human49_pos</PosGroup>
+			<Sequence>situ\story\BEA\A_BEA_04_060.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_04_070.lua</Sequence>
+		</Human>
+		<Human condition="417">
+			<Code>ELF</Code>
+			<Setting>Elfriede</Setting>
+			<PrisonTerm>854200</PrisonTerm>
+			<PosGroup>human187a_pos</PosGroup>
+			<Sequence>situ\story\JNK00\elf01.lua</Sequence>
+		</Human>
+		<Human condition="409">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>982850</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_04_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_04_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="4">
+			<Code>UWE</Code>
+		</Human>
+		<Human condition="4">
+			<Code>TIG</Code>
+		</Human>
+		<Human condition="4">
+			<Code>NOA</Code>
+		</Human>
+		<Human condition="4">
+			<Code>NAT</Code>
+		</Human>
+		<Human condition="4">
+			<Code>MAT</Code>
+		</Human>
+		<Human condition="4">
+			<Code>JUL</Code>
+		</Human>
+		<Human condition="4">
+			<Code>ELF</Code>
+		</Human>
+		<Human condition="4">
+			<Code>CRI54</Code>
+		</Human>
+		<Human condition="4">
+			<Code>CRI53</Code>
+		</Human>
+		<Human condition="4">
+			<Code>CRI52</Code>
+		</Human>
+		<Citizen condition="4">
+			<Code>CIV01</Code>
+		</Citizen>
+		<Human condition="4">
+			<Code>CIV_GEN</Code>
+		</Human>
+		<Human condition="4">
+			<Code>CAR</Code>
+		</Human>
+		<Human condition="4">
+			<Code>BIL</Code>
+		</Human>
+		<Human condition="4">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="4">
+			<Code>ACC04</Code>
+		</Human>
+		<Human condition="4">
+			<Code>ACC03</Code>
+		</Human>
+		<Human condition="4">
+			<Code>ACC02</Code>
+		</Human>
+		<Human condition="4">
+			<Code>ACC01</Code>
+		</Human>
+		<Human condition="389">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>988200</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_03_080.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="387">
+			<Code>JUL</Code>
+		</Human>
+		<Human condition="385">
+			<Code>CIV_GEN</Code>
+		</Human>
+		<Human condition="385">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="385">
+			<Code>MAT</Code>
+		</Human>
+		<Human condition="384">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>988200</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_03_090.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_080.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="383">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>988200</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_03_080.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="379">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>988200</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_03_070.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="377">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>988200</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_03_070.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="355">
+			<Code>TIG</Code>
+		</Human>
+		<Human condition="355">
+			<Code>NOA</Code>
+		</Human>
+		<Human condition="355">
+			<Code>ELF</Code>
+		</Human>
+		<Human condition="368">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="368">
+			<Code>UWE</Code>
+		</Human>
+		<Human condition="368">
+			<Code>MAT</Code>
+		</Human>
+		<Human condition="368">
+			<Code>ACC04</Code>
+		</Human>
+		<Human condition="368">
+			<Code>ACC03</Code>
+		</Human>
+		<Human condition="368">
+			<Code>ACC02</Code>
+		</Human>
+		<Human condition="368">
+			<Code>ACC01</Code>
+		</Human>
+		<Human condition="368">
+			<Code>NAT</Code>
+		</Human>
+		<Human condition="366">
+			<Code>BIL</Code>
+		</Human>
+		<Human condition="366">
+			<Code>BIL</Code>
+		</Human>
+		<Human condition="363">
+			<Code>TIG</Code>
+		</Human>
+		<Human condition="363">
+			<Code>NOA</Code>
+		</Human>
+		<Human condition="363">
+			<Code>ELF</Code>
+		</Human>
+		<Human condition="367">
+			<Code>ACC04</Code>
+			<Setting>Policeman</Setting>
+			<PosGroup>human164_pos</PosGroup>
+			<Sequence>situ\story\JNK00\acc04.lua</Sequence>
+		</Human>
+		<Human condition="367">
+			<Code>ACC03</Code>
+			<Setting>Policeman</Setting>
+			<PosGroup>human163_pos</PosGroup>
+			<Sequence>situ\story\JNK00\acc03.lua</Sequence>
+		</Human>
+		<Human condition="367">
+			<Code>ACC02</Code>
+			<Setting>Policeman</Setting>
+			<PosGroup>human162_pos</PosGroup>
+			<Sequence>situ\story\JNK00\acc02.lua</Sequence>
+		</Human>
+		<Human condition="367">
+			<Code>ACC01</Code>
+			<Setting>Policeman</Setting>
+			<PosGroup>human161_pos</PosGroup>
+			<Sequence>situ\story\JNK00\acc01.lua</Sequence>
+		</Human>
+		<Human condition="367">
+			<Code>NAT</Code>
+			<Setting>Natalia</Setting>
+			<PosGroup>human160_pos</PosGroup>
+			<Sequence>situ\story\NAT\A_NAT_03_010.lua</Sequence>
+			<Sequence>situ\story\NAT\A_NAT_03_020.lua</Sequence>
+			<Sequence>situ\story\NAT\A_NAT_03_030.lua</Sequence>
+		</Human>
+		<Human condition="362">
+			<Code>ACC04</Code>
+			<Setting>Policeman</Setting>
+			<PosGroup>human49_pos</PosGroup>
+			<Sequence>situ\story\JNK00\acc04.lua</Sequence>
+		</Human>
+		<Human condition="362">
+			<Code>ACC03</Code>
+			<Setting>Policeman</Setting>
+			<PosGroup>human49_pos</PosGroup>
+			<Sequence>situ\story\JNK00\acc03.lua</Sequence>
+		</Human>
+		<Human condition="362">
+			<Code>ACC02</Code>
+			<Setting>Policeman</Setting>
+			<PosGroup>human49_pos</PosGroup>
+			<Sequence>situ\story\JNK00\acc02.lua</Sequence>
+		</Human>
+		<Human condition="362">
+			<Code>ACC01</Code>
+			<Setting>Policeman</Setting>
+			<PosGroup>human49_pos</PosGroup>
+			<Sequence>situ\story\JNK00\acc01.lua</Sequence>
+		</Human>
+		<Human condition="362">
+			<Code>NAT</Code>
+			<Setting>Natalia</Setting>
+			<PosGroup>human49_pos</PosGroup>
+			<Sequence>situ\story\NAT\A_NAT_03_010.lua</Sequence>
+			<Sequence>situ\story\NAT\A_NAT_03_020.lua</Sequence>
+			<Sequence>situ\story\NAT\A_NAT_03_030.lua</Sequence>
+		</Human>
+		<Human condition="362">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>988200</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_03_060.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="360">
+			<Code>TIG</Code>
+			<Setting>Tiger</Setting>
+			<PrisonTerm>1021600</PrisonTerm>
+			<PosGroup>human181_pos</PosGroup>
+		</Human>
+		<Human condition="360">
+			<Code>NOA</Code>
+			<Setting>Noa</Setting>
+			<PrisonTerm>1006900</PrisonTerm>
+			<PosGroup>human182_pos</PosGroup>
+		</Human>
+		<Human condition="360">
+			<Code>ELF</Code>
+			<Setting>Elfriede</Setting>
+			<PrisonTerm>854200</PrisonTerm>
+			<PosGroup>human180_pos</PosGroup>
+			<Sequence>situ\story\JNK00\area06.lua</Sequence>
+		</Human>
+		<Human condition="358">
+			<Code>TIG</Code>
+			<Setting>Tiger</Setting>
+			<PrisonTerm>1021600</PrisonTerm>
+			<PosGroup>human49_pos</PosGroup>
+		</Human>
+		<Human condition="358">
+			<Code>NOA</Code>
+			<Setting>Noa</Setting>
+			<PrisonTerm>1006900</PrisonTerm>
+			<PosGroup>human49_pos</PosGroup>
+		</Human>
+		<Human condition="358">
+			<Code>ELF</Code>
+			<Setting>Elfriede</Setting>
+			<PrisonTerm>854200</PrisonTerm>
+			<PosGroup>human49_pos</PosGroup>
+			<Sequence>situ\story\JNK00\area06.lua</Sequence>
+		</Human>
+		<Human condition="359">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>988200</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_03_060.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="367">
+			<Code>BEA</Code>
+			<Setting>Beatrice2</Setting>
+			<PrisonTerm>950930</PrisonTerm>
+			<PosGroup>human16a_pos</PosGroup>
+			<Sequence>situ\story\BEA\A_BEA_03_180.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_03_190.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_03_200.lua</Sequence>
+		</Human>
+		<Human condition="367">
+			<Code>MAT</Code>
+			<Setting>Mattias</Setting>
+			<PrisonTerm>993710</PrisonTerm>
+			<PosGroup>human186b_pos</PosGroup>
+			<Sequence>situ\story\MAT\A_MAT_03_180.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_190.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_200.lua</Sequence>
+		</Human>
+		<Human condition="363">
+			<Code>BEA</Code>
+			<Setting>Beatrice2</Setting>
+			<PrisonTerm>950930</PrisonTerm>
+			<PosGroup>human16a_pos</PosGroup>
+			<Sequence>situ\story\BEA\A_BEA_03_150.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_03_160.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_03_170.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_03_180.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_03_190.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_03_200.lua</Sequence>
+		</Human>
+		<Human condition="363">
+			<Code>MAT</Code>
+			<Setting>Mattias</Setting>
+			<PrisonTerm>993710</PrisonTerm>
+			<PosGroup>human186b_pos</PosGroup>
+			<Sequence>situ\story\MAT\A_MAT_03_150.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_160.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_170.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_180.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_190.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_200.lua</Sequence>
+		</Human>
+		<Human condition="360">
+			<Code>BEA</Code>
+			<Setting>Beatrice2</Setting>
+			<PrisonTerm>950930</PrisonTerm>
+			<PosGroup>human183_pos</PosGroup>
+			<Sequence>situ\story\BEA\A_BEA_03_150.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_03_160.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_03_170.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_03_180.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_03_190.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_03_200.lua</Sequence>
+		</Human>
+		<Human condition="360">
+			<Code>MAT</Code>
+			<Setting>Mattias</Setting>
+			<PrisonTerm>993710</PrisonTerm>
+			<PosGroup>human184_pos</PosGroup>
+			<Sequence>situ\story\MAT\A_MAT_03_150.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_160.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_170.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_180.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_190.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_200.lua</Sequence>
+		</Human>
+		<Human condition="359">
+			<Code>BEA</Code>
+			<Setting>Beatrice2</Setting>
+			<PrisonTerm>950930</PrisonTerm>
+			<PosGroup>human405_pos</PosGroup>
+			<Sequence>situ\story\JNK00\uwe01.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_03_150.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_03_160.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_03_170.lua</Sequence>
+		</Human>
+		<Human condition="359">
+			<Code>MAT</Code>
+			<Setting>Mattias</Setting>
+			<PrisonTerm>993710</PrisonTerm>
+			<PosGroup>human406_pos</PosGroup>
+			<Sequence>situ\story\JNK00\uwe01.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_150.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_160.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_170.lua</Sequence>
+		</Human>
+		<Human condition="358">
+			<Code>UWE</Code>
+			<Setting>Uwe</Setting>
+			<PrisonTerm>771720</PrisonTerm>
+			<PosGroup>human00_pos</PosGroup>
+			<Sequence>situ\story\UWE\A_UWE_03_080.lua</Sequence>
+			<Sequence>situ\story\UWE\A_UWE_03_040.lua</Sequence>
+			<Sequence>situ\story\UWE\A_UWE_03_020.lua</Sequence>
+			<Sequence>situ\story\UWE\A_UWE_03_030.lua</Sequence>
+			<Sequence>situ\story\JNK00\uwe01.lua</Sequence>
+			<Sequence>situ\story\UWE\A_UWE_03_090.lua</Sequence>
+			<Sequence>situ\story\JNK00\A_UWE_03_080a.lua</Sequence>
+			<Sequence>situ\story\JNK00\A_UWE_03_040a.lua</Sequence>
+			<Sequence>situ\story\JNK00\A_UWE_03_020a.lua</Sequence>
+			<Sequence>situ\story\JNK00\A_UWE_03_030a.lua</Sequence>
+			<Sequence>situ\story\UWE\A_UWE_03_100.lua</Sequence>
+			<Sequence>situ\story\JNK00\A_UWE_03_090a.lua</Sequence>
+			<Sequence>situ\story\JNK00\A_UWE_03_080b.lua</Sequence>
+			<Sequence>situ\story\JNK00\A_UWE_03_040b.lua</Sequence>
+			<Sequence>situ\story\JNK00\A_UWE_03_020b.lua</Sequence>
+			<Sequence>situ\story\JNK00\A_UWE_03_030b.lua</Sequence>
+		</Human>
+		<Human condition="358">
+			<Code>BEA</Code>
+			<Setting>Beatrice2</Setting>
+			<PrisonTerm>950930</PrisonTerm>
+			<PosGroup>human402_pos</PosGroup>
+			<Sequence>situ\story\JNK00\uwe01.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_03_150.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_03_160.lua</Sequence>
+			<Sequence>situ\story\BEA\A_BEA_03_170.lua</Sequence>
+		</Human>
+		<Human condition="358">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>988200</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_03_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="358">
+			<Code>MAT</Code>
+			<Setting>Mattias</Setting>
+			<PrisonTerm>993710</PrisonTerm>
+			<PosGroup>human96_pos</PosGroup>
+			<Sequence>situ\story\JNK00\mat01.lua</Sequence>
+			<Sequence>situ\story\JNK00\uwe01.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_150.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_160.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_170.lua</Sequence>
+		</Human>
+		<Human condition="352">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>988200</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_03_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_050.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="352">
+			<Code>CAR</Code>
+		</Human>
+		<Human condition="349">
+			<Code>BEA</Code>
+		</Human>
+		<Human condition="342">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>988200</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_03_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="342">
+			<Code>MAT</Code>
+			<Setting>Mattias</Setting>
+			<PrisonTerm>993710</PrisonTerm>
+			<PosGroup>human06_pos</PosGroup>
+			<Sequence>situ\story\MAT\A_MAT_03_100.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_110.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_03_120.lua</Sequence>
+		</Human>
+		<Human condition="342">
+			<Code>CAR</Code>
+			<Setting>Carlos</Setting>
+			<PrisonTerm>793240</PrisonTerm>
+			<PosGroup>human49_pos</PosGroup>
+			<Sequence>situ\story\CAR\A_CAR_03_060.lua</Sequence>
+			<Sequence>situ\story\CAR\A_CAR_03_070.lua</Sequence>
+			<Sequence>situ\story\CAR\A_CAR_03_080.lua</Sequence>
+		</Human>
+		<Human condition="342">
+			<Code>CAR</Code>
+			<Setting>Carlos</Setting>
+			<PrisonTerm>793240</PrisonTerm>
+			<PosGroup>human49_pos</PosGroup>
+		</Human>
+		<Human condition="342">
+			<Code>BEA</Code>
+			<Setting>Beatrice2</Setting>
+			<PrisonTerm>950930</PrisonTerm>
+			<PosGroup>human49_pos</PosGroup>
+		</Human>
+		<Human condition="333">
+			<Code>BEA</Code>
+			<Setting>Beatrice2</Setting>
+			<PrisonTerm>948130</PrisonTerm>
+			<PosGroup>human47_pos</PosGroup>
+			<Sequence>situ\story\JNK00\mat00.lua</Sequence>
+		</Human>
+		<Human condition="333">
+			<Code>MAT</Code>
+			<Setting>Mattias</Setting>
+			<PrisonTerm>993710</PrisonTerm>
+			<PosGroup>human06_pos</PosGroup>
+			<Sequence>situ\story\JNK00\mat00.lua</Sequence>
+		</Human>
+		<Human condition="333">
+			<Code>BIL</Code>
+			<Setting>Billy</Setting>
+			<PrisonTerm>988200</PrisonTerm>
+			<PosGroup>human156_pos</PosGroup>
+			<Sequence>situ\story\BIL\A_BIL_03_010.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_020.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_030.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_03_040.lua</Sequence>
+			<Sequence>situ\story\BIL\A_BIL_00_010.lua</Sequence>
+		</Human>
+		<Human condition="3">
+			<Code>CAR</Code>
+		</Human>
+		<Citizen condition="3">
+			<Code>CIV01</Code>
+		</Citizen>
+		<Human condition="3">
+			<Code>UWE</Code>
+		</Human>
+		<Android condition="3">
+			<Code>ACCMAT</Code>
+		</Android>
+		<Human condition="3">
+			<Code>MAT2</Code>
+		</Human>
+		<Human condition="3">
+			<Code>MAT</Code>
+		</Human>
+		<Human condition="257">
+			<Code>CAR</Code>
+		</Human>
+		<Human condition="255">
+			<Code>MAT</Code>
+		</Human>
+		<Human condition="253">
+			<Code>CAR</Code>
+			<Setting>Carlos</Setting>
+			<PrisonTerm>793240</PrisonTerm>
+			<PosGroup>human26_pos</PosGroup>
+			<Sequence>situ\story\CAR\A_CAR_02_010.lua</Sequence>
+			<Sequence>situ\story\CAR\A_CAR_02_020.lua</Sequence>
+			<Sequence>situ\story\CAR\A_CAR_02_030.lua</Sequence>
+			<Sequence>situ\story\CAR\A_CAR_02_040.lua</Sequence>
+			<Sequence>situ\story\CAR\A_CAR_02_050.lua</Sequence>
+		</Human>
+		<Human condition="253">
+			<Code>MAT</Code>
+			<Setting>Mattias</Setting>
+			<PrisonTerm>998910</PrisonTerm>
+			<PosGroup>human23_pos</PosGroup>
+		</Human>
+		<Human condition="244">
+			<Code>UWE</Code>
+		</Human>
+		<Human condition="244">
+			<Code>MAT</Code>
+		</Human>
+		<Human condition="243">
+			<Code>UWE</Code>
+			<Setting>Uwe</Setting>
+			<PrisonTerm>774320</PrisonTerm>
+			<PosGroup>human04_pos</PosGroup>
+		</Human>
+		<Human condition="243">
+			<Code>MAT</Code>
+			<Setting>Mattias</Setting>
+			<PrisonTerm>998910</PrisonTerm>
+			<PosGroup>human03_pos</PosGroup>
+		</Human>
+		<Human condition="217">
+			<Code>UWE</Code>
+		</Human>
+		<Android condition="212">
+			<Code>ACCMAT</Code>
+		</Android>
+		<Human condition="217">
+			<Code>MAT</Code>
+		</Human>
+		<Citizen condition="212">
+			<Code>CIV01</Code>
+		</Citizen>
+		<Human condition="212">
+			<Code>MAT2</Code>
+		</Human>
+		<Citizen condition="202">
+			<Code>CIV01</Code>
+			<Setting>Rui</Setting>
+			<PosGroup>human123_pos</PosGroup>
+		</Citizen>
+		<Human condition="202">
+			<Code>UWE</Code>
+			<Setting>Uwe</Setting>
+			<PrisonTerm>774320</PrisonTerm>
+			<PosGroup>human97_pos</PosGroup>
+			<Sequence>situ\story\UWE\A_UWE_02_010.lua</Sequence>
+			<Sequence>situ\story\UWE\A_UWE_02_020.lua</Sequence>
+			<Sequence>situ\story\UWE\A_UWE_02_030.lua</Sequence>
+		</Human>
+		<Android condition="202">
+			<Code>ACCMAT</Code>
+			<Setting>AndroidMattias</Setting>
+			<PosGroup>human371_pos</PosGroup>
+		</Android>
+		<Human condition="202">
+			<Code>MAT2</Code>
+			<Setting>Mattias</Setting>
+			<PrisonTerm>998910</PrisonTerm>
+			<PosGroup>human98_pos</PosGroup>
+		</Human>
+		<Human condition="202">
+			<Code>MAT</Code>
+			<Setting>Mattias</Setting>
+			<PrisonTerm>998910</PrisonTerm>
+			<PosGroup>human98_pos</PosGroup>
+			<Sequence>situ\story\MAT\A_MAT_02_050.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_02_060.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_02_140.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_02_150.lua</Sequence>
+			<Sequence>situ\story\MAT\A_MAT_02_160.lua</Sequence>
+		</Human>
+	</Cast>
+	<Area>
+		<Sequence condition="803">situ\story\JNK00\area24.lua</Sequence>
+		<Sequence condition="645">situ\story\JNK00\area32.lua</Sequence>
+		<Sequence condition="505">situ\story\JNK00\elf03.lua</Sequence>
+		<Sequence condition="502">situ\story\JNK00\mat03.lua</Sequence>
+		<Sequence condition="444">situ\story\JNK00\area31.lua</Sequence>
+		<Sequence condition="443">situ\story\JNK00\area31.lua</Sequence>
+		<Sequence condition="374">situ\story\JNK00\syl00.lua</Sequence>
+		<Sequence condition="362">situ\story\JNK00\nat00.lua</Sequence>
+		<Sequence condition="342">situ\story\JNK00\bea00.lua</Sequence>
+		<Sequence condition="253">situ\story\JNK60\car00.lua</Sequence>
+		<Sequence condition="243">situ\story\JNK00\area04.lua</Sequence>
+		<Sequence condition="202">situ\story\JNK00\area00.lua</Sequence>
+	</Area>
+</Situation>

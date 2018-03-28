@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<Situation>
+	<Location>JNK02</Location>
+	<Cast>
+		<Extra condition="47">
+			<Code>Propa</Code>
+			<Setting>Propa</Setting>
+			<PosGroup>propa_pos</PosGroup>
+			<Sequence>situ\story\CMN\propa_lottery.lua</Sequence>
+		</Extra>
+		<Human condition="0">
+			<Code>Accessory</Code>
+		</Human>
+		<Human condition="0">
+			<Code>NAT</Code>
+			<Setting>Natalia</Setting>
+			<PosGroup>human09_pos</PosGroup>
+			<Sequence>situ\story\JNK01\nat.lua</Sequence>
+		</Human>
+		<Human condition="0">
+			<Code>CIV99</Code>
+			<Setting>Mayo</Setting>
+			<PosGroup>human08_pos</PosGroup>
+			<PrisonTerm>9999999</PrisonTerm>
+			<Sequence>situ\story\JNK01\civ01.lua</Sequence>
+		</Human>
+	</Cast>
+</Situation>

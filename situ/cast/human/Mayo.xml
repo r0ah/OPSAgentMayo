@@ -1,0 +1,195 @@
+<Human>
+	<PawnSetting>
+		<Role>1</Role>
+		<RoleLv>4</RoleLv>
+	</PawnSetting>
+	<AvatarSetting>
+		<BodyType>1</BodyType>
+		<SkinSetting Id="0">
+			<CostumeId>17</CostumeId><ArrangeId>1</ArrangeId><TextureId>0</TextureId>
+			<MaterialColor Id="0">
+				<ParamColor Id="0">0.847059 0.847059 0.847059 1 </ParamColor>
+				<ParamColor Id="1">0.6 0.6 0.6 1 </ParamColor>
+				<ParamColor Id="2">0.54902 0.494118 0.54902 1 </ParamColor>
+				<ParamColor Id="3">0 0 0 0 </ParamColor>
+			</MaterialColor>
+			<MaterialColor Id="1">
+				<ParamColor Id="0">0.341176 0.364706 0.27451 1 </ParamColor>
+				<ParamColor Id="1">0.298039 0.298039 0.298039 1 </ParamColor>
+				<ParamColor Id="2">0.658824 0.694118 0.796079 1 </ParamColor>
+				<ParamColor Id="3">0 0 0 0 </ParamColor>
+			</MaterialColor>
+			<MaterialColor Id="2">
+				<ParamColor Id="0">0.913726 0.756863 0.666667 1 </ParamColor>
+				<ParamColor Id="1">0.901961 0.34902 0.309804 1 </ParamColor>
+				<ParamColor Id="2">0.603922 0.529412 0.556863 1 </ParamColor>
+				<ParamColor Id="3">0 0 0 0 </ParamColor>
+			</MaterialColor>
+			<MaterialColor Id="3">
+				<ParamColor Id="0">0 0 0 0 </ParamColor>
+				<ParamColor Id="1">0 0 0 0 </ParamColor>
+				<ParamColor Id="2">0 0 0 0 </ParamColor>
+				<ParamColor Id="3">0 0 0 0 </ParamColor>
+			</MaterialColor>
+			<MaterialColor Id="4">
+				<ParamColor Id="0">0 0 0 0 </ParamColor>
+				<ParamColor Id="1">0 0 0 0 </ParamColor>
+				<ParamColor Id="2">0 0 0 0 </ParamColor>
+				<ParamColor Id="3">0 0 0 0 </ParamColor>
+			</MaterialColor>
+			<MaterialColor Id="5">
+				<ParamColor Id="0">0 0 0 0 </ParamColor>
+				<ParamColor Id="1">0 0 0 0 </ParamColor>
+				<ParamColor Id="2">0 0 0 0 </ParamColor>
+				<ParamColor Id="3">0 0 0 0 </ParamColor>
+			</MaterialColor>
+			<MaterialColor Id="6">
+				<ParamColor Id="0">0 0 0 0 </ParamColor>
+				<ParamColor Id="1">0 0 0 0 </ParamColor>
+				<ParamColor Id="2">0 0 0 0 </ParamColor>
+				<ParamColor Id="3">0 0 0 0 </ParamColor>
+			</MaterialColor>
+			<MaterialColor Id="7">
+				<ParamColor Id="0">0 0 0 0 </ParamColor>
+				<ParamColor Id="1">0 0 0 0 </ParamColor>
+				<ParamColor Id="2">0 0 0 0 </ParamColor>
+				<ParamColor Id="3">0 0 0 0 </ParamColor>
+			</MaterialColor>
+		</SkinSetting>
+		<SkinSetting Id="1">
+			<CostumeId>2</CostumeId><ArrangeId>1</ArrangeId><TextureId>0</TextureId>
+			<MaterialColor Id="0">
+				<ParamColor Id="0">0.917647 0.760784 0.65098 1 </ParamColor>
+				<ParamColor Id="1">0 0 0 0 </ParamColor>
+				<ParamColor Id="2">0 0 0 0 </ParamColor>
+				<ParamColor Id="3">0 0 0 0 </ParamColor>
+			</MaterialColor>
+			<MaterialColor Id="1"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="2"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="3"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="4"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="5"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="6"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="7"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+		</SkinSetting>
+		<SkinSetting Id="2">
+			<CostumeId>10</CostumeId><ArrangeId>1</ArrangeId><TextureId>0</TextureId>
+			<MaterialColor Id="0">
+				<ParamColor Id="0">0.956863 0.858824 0.741176 1 </ParamColor>
+				<ParamColor Id="1">0.301961 0.329412 0.337255 1 </ParamColor>
+				<ParamColor Id="2">0 0 0 1 </ParamColor>
+				<ParamColor Id="3">0 0 0 0 </ParamColor>
+			</MaterialColor>
+			<MaterialColor Id="1">
+				<ParamColor Id="0">0.921569 0.921569 0.921569 1 </ParamColor>
+				<ParamColor Id="1">0.403922 0.537255 0.592157 1 </ParamColor>
+				<ParamColor Id="2">0.0901961 0.294118 0.647059 1 </ParamColor>
+				<ParamColor Id="3">0 0 0 0 </ParamColor>
+			</MaterialColor>
+			<MaterialColor Id="2">
+				<ParamColor Id="0">0.956863 0.858824 0.737255 1 </ParamColor>
+				<ParamColor Id="1">0.54902 0.513726 0.694118 1 </ParamColor>
+				<ParamColor Id="2">1 1 1 1 </ParamColor>
+				<ParamColor Id="3">0 0 0 0 </ParamColor>
+			</MaterialColor>
+			<MaterialColor Id="3"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="4"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="5"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="6"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="7"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+		</SkinSetting>
+		<SkinSetting Id="3">
+			<CostumeId>7</CostumeId><ArrangeId>1</ArrangeId><TextureId>11</TextureId>
+			<MaterialColor Id="0">
+				<ParamColor Id="0">0.737255 0.709804 0.678431 1 </ParamColor>
+				<ParamColor Id="1">0.756863 0.376471 0.462745 1 </ParamColor>
+				<ParamColor Id="2">0.376471 0.239216 0.164706 1 </ParamColor>
+				<ParamColor Id="3">0.376471 0.239216 0.164706 1 </ParamColor>
+			</MaterialColor>
+			<MaterialColor Id="1">
+				<ParamColor Id="0">0.737255 0.709804 0.678431 1 </ParamColor>
+				<ParamColor Id="1">0.756863 0.407843 0.498039 1 </ParamColor>
+				<ParamColor Id="2">1 1 1 1 </ParamColor>
+				<ParamColor Id="3">1 1 1 1 </ParamColor>
+			</MaterialColor>
+			<MaterialColor Id="2"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="3"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="4"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="5"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="6"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="7"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+		</SkinSetting>
+		<SkinSetting Id="4">
+			<CostumeId>4</CostumeId><ArrangeId>1</ArrangeId><TextureId>0</TextureId>
+			<MaterialColor Id="0"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="1"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="2"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="3"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="4"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="5"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="6"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="7"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+		</SkinSetting>
+		<SkinSetting Id="5">
+			<CostumeId>0</CostumeId><ArrangeId>0</ArrangeId><TextureId>0</TextureId>
+			<MaterialColor Id="0"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="1"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="2"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="3"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="4"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="5"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="6"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+			<MaterialColor Id="7"><ParamColor Id="0">0 0 0 0 </ParamColor><ParamColor Id="1">0 0 0 0 </ParamColor><ParamColor Id="2">0 0 0 0 </ParamColor><ParamColor Id="3">0 0 0 0 </ParamColor></MaterialColor>
+		</SkinSetting>
+		<DeformSetting Id="0"><Scale>1.01</Scale></DeformSetting>
+		<DeformSetting Id="1"><Scale>1</Scale></DeformSetting>
+		<DeformSetting Id="2"><Scale>0.96</Scale></DeformSetting>
+		<DeformSetting Id="3"><Scale>1</Scale></DeformSetting>
+		<DeformSetting Id="4"><Scale>1</Scale></DeformSetting>
+		<DeformSetting Id="5"><Scale>1.04</Scale></DeformSetting>
+		<DeformSetting Id="6"><Scale>1</Scale></DeformSetting>
+		<DeformSetting Id="7"><Scale>1</Scale></DeformSetting>
+		<DeformSetting Id="8"><Scale>0.85</Scale></DeformSetting>
+		<DeformSetting Id="9"><Scale>1</Scale></DeformSetting>
+		<DeformSetting Id="10"><Scale>1</Scale></DeformSetting>
+		<DeformSetting Id="11"><Scale>1</Scale></DeformSetting>
+		<DeformSetting Id="12"><Scale>1</Scale></DeformSetting>
+		<DeformSetting Id="13"><Scale>1</Scale></DeformSetting>
+		<DeformSetting Id="14"><Scale>1</Scale></DeformSetting>
+		<DeformSetting Id="15"><Scale>1</Scale></DeformSetting>
+		<DeformSetting Id="16"><Scale>1</Scale></DeformSetting>
+		<DeformSetting Id="17"><Scale>1</Scale></DeformSetting>
+		<DeformEditSetting>
+			<LengthIndex Id="0">4</LengthIndex>
+			<LengthIndex Id="1">4</LengthIndex>
+			<LengthIndex Id="2">4</LengthIndex>
+			<LengthIndex Id="3">4</LengthIndex>
+			<LengthIndex Id="4">4</LengthIndex>
+			<LengthIndex Id="5">4</LengthIndex>
+			<LengthIndex Id="6">4</LengthIndex>
+			<LengthIndex Id="7">4</LengthIndex>
+			<GirthIndex Id="0">4</GirthIndex>
+			<GirthIndex Id="1">4</GirthIndex>
+			<GirthIndex Id="2">4</GirthIndex>
+			<GirthIndex Id="3">4</GirthIndex>
+			<GirthIndex Id="4">4</GirthIndex>
+			<GirthIndex Id="5">4</GirthIndex>
+			<GirthIndex Id="6">4</GirthIndex>
+			<GirthIndex Id="7">4</GirthIndex>
+		</DeformEditSetting>
+	</AvatarSetting>
+	<AttachSetting Id="0">
+		<Gender>1</Gender>
+		<AttachType>7</AttachType>
+		<ArrangeIndex>0</ArrangeIndex>
+		<NodeName/>
+		<ParamColor Id="0">0.341176 0.364706 0.27451 1 </ParamColor>
+		<ParamColor Id="1">0.298039 0.298039 0.298039 1 </ParamColor>
+		<ParamColor Id="2">0.658824 0.694118 0.796079 1 </ParamColor>
+		<ParamColor Id="3">0 0 0 0 </ParamColor>
+	</AttachSetting>
+	<CharaId>-1</CharaId>
+	<Gender>1</Gender>
+	<Voice>0</Voice>
+	<Costume>-1</Costume>
+</Human>
