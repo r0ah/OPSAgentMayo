@@ -1,5 +1,3 @@
-# README #
-
 <p align="center"><img src="https://raw.githubusercontent.com/wiki/roahnosh/OPSAgentMayo/images/OPSAgentMayo.png"></p>
 
 A simple Freedom Wars mod. Adds a new NPC character that can do many things. Requires **1 piece of Non-Existent Non-Resource** which can be found on the lower levels of the Citizen Promenade and Cell Garden.
