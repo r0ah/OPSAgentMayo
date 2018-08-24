@@ -8,6 +8,8 @@ The Play Music is not persistent. If you exit hub the BGM will stop. However, th
 
 Mod tested with the US and JP versions.
 
+See the [changelog](https://github.com/roahnosh/OPSAgentMayo/blob/master/CHANGELOG.md).
+
 ## [Wiki](https://github.com/roahnosh/OPSAgentMayo/wiki) ##
 
 * [Features](https://github.com/roahnosh/OPSAgentMayo/wiki/Features)
@@ -19,8 +21,6 @@ Mod tested with the US and JP versions.
 * [Const.lua Configuration](https://github.com/roahnosh/OPSAgentMayo/wiki/Const.lua-Configuration)
 
 * [Config](https://github.com/roahnosh/OPSAgentMayo/wiki/Config)
-
-* [Changelog](https://github.com/roahnosh/OPSAgentMayo/blob/master/CHANGELOG.md)
 
 * [Downloads](https://github.com/roahnosh/OPSAgentMayo/wiki/Downloads)
 
